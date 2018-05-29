@@ -2,12 +2,159 @@
 layout: titlepage
 ---
 
-For questions and concerns, please contact [David Donoho](https://profiles.stanford.edu/david-donoho), [Hatef Monajemi](http://web.stanford.edu/~monajemi/) (@monajemi on GitHub) or [Vardan Papyan](http://vardanp.cswp.cs.technion.ac.il/). This class meets Wednesdays 3:00-4:20 PM at [200-002](https://campus-map.stanford.edu/?srch=200-002). If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit.   
+For questions and concerns, please contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
+
+## Schedule
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-amwm">Lecture</th>
+    <th class="tg-amwm">Topic</th>
+    <th class="tg-amwm">Reading</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">Introduction, role of hardware in machine learning</td>
+    <td class="tg-yw4l"><a target="_blank" href="https://arxiv.org/pdf/1703.09039.pdf">Hardware for Deep Learning</a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">Linear algebra fundamentals and accelerating linear algebra</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">Performance, Energy efficiency, Parallelism, Locality, Memory hierarchy, Roofline model</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">Classical ML algorithms: Regression, SVMs</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">5</td>
+    <td class="tg-yw4l">Neural networks: DNNs, CNNs, RNNs</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">6</td>
+    <td class="tg-yw4l">Modeling Neural networks with Spatial</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">7</td>
+    <td class="tg-yw4l">Analyzing performance and energy with Spatial</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">8</td>
+    <td class="tg-yw4l">Training: SGD, back propagation, statistical efficiency, batch size </td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">9</td>
+    <td class="tg-yw4l">Parallelizing SGD: Hogwild!, asynchrony and hardware efficiency</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">10</td>
+    <td class="tg-yw4l">Low precision: Buckwild!, HALP</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">11</td>
+    <td class="tg-yw4l">Sparsity</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">12</td>
+    <td class="tg-yw4l">SIMD and GPUs</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">13</td>
+    <td class="tg-yw4l">ASICs: DianNao, Eyeriss, TPU</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">14</td>
+    <td class="tg-yw4l">FPGAs: Catapult, Brainwave</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">15</td>
+    <td class="tg-yw4l">ML benchmarks: DAWNbench, MLPerf</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">16</td>
+    <td class="tg-yw4l">Guest lecture from academia</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">17</td>
+    <td class="tg-yw4l">Guest lecture from industry</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">18</td>
+    <td class="tg-yw4l">Project presentations</td>
+    <td class="tg-yw4l">A, B</td>
+  </tr>
+</table>
+
+## [](#Lectures) Guest Lectures
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/ardavan.png">
+</div>
+<div class="card">
+<a class="talkdate" href="./bolcskei_lecture">Date TBA</a> <br>
+<span class="speaker">Topic TBA</span> <br>
+<span class="speakerposition">Speaker TBA</span>
+</div>
+</div>
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/ardavan.png">
+</div>
+<div class="card">
+<a class="talkdate" href="./patel_lecture">Date TBA</a> <br>
+<span class="speaker">Topic TBA</span> <br>
+<span class="speakerposition">Speaker TBA</span>
+</div>
+</div>
+
+## [Reading list and other resources](readings)
+
+## [Lecture slides](lecture_slides)    
+
+## [Basic information about deep learning](basicinfo)    
+
+## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
+
+## [Blogs](blogs)
+
+## [Grading](grading)
+
+<!--
+ If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit.   
 
 * [Follow Stat385 on Twitter](https://twitter.com/stats385?lang=en)  
 
 * [Follow Stat385 on ResearchGate (videos)](https://www.researchgate.net/project/Theories-of-Deep-Learning)  
-
 
 ## Deep Learning/AI News
  * [This Is The Future Of Artificial Intelligence](http://amp.timeinc.net/fortune/2016/06/15/future-of-work-2)
@@ -124,3 +271,4 @@ For questions and concerns, please contact [David Donoho](https://profiles.stanf
 ## [Grading](grading)
 
 ## [Plan your visit](speaker_visit)
+-->
