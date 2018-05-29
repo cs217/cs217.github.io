@@ -10,107 +10,106 @@ For questions and concerns, please contact [Stefan Hadjis](https://cs.stanford.e
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-us36{border-color:inherit;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-amwm">Lecture</th>
-    <th class="tg-amwm">Topic</th>
-    <th class="tg-amwm">Reading</th>
+    <th class="tg-c3ow">Lecture</th>
+    <th class="tg-c3ow">Topic</th>
+    <th class="tg-c3ow">Reading</th>
   </tr>
   <tr>
-    <td class="tg-yw4l">1</td>
-    <td class="tg-yw4l">Introduction, role of hardware in machine learning</td>
-    <td class="tg-yw4l"><a target="_blank" href="https://arxiv.org/pdf/1703.09039.pdf">Hardware for Deep Learning</a></td>
+    <td class="tg-us36">1</td>
+    <td class="tg-us36">Introduction, role of hardware in machine learning</td>
+    <td class="tg-us36"><a target="_blank" href="https://arxiv.org/pdf/1703.09039.pdf">Hardware for Deep Learning</a></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">2</td>
-    <td class="tg-yw4l">Linear algebra fundamentals and accelerating linear algebra</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">2</td>
+    <td class="tg-us36">Linear algebra fundamentals and accelerating linear algebra</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">3</td>
-    <td class="tg-yw4l">Performance, Energy efficiency, Parallelism, Locality, Memory hierarchy, Roofline model</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">3</td>
+    <td class="tg-us36">Performance, Energy efficiency, Parallelism, Locality, Memory hierarchy,<br>&nbsp;&nbsp;Roofline model</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">4</td>
-    <td class="tg-yw4l">Classical ML algorithms: Regression, SVMs</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">4</td>
+    <td class="tg-us36">Classical ML algorithms: Regression, SVMs</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">5</td>
-    <td class="tg-yw4l">Neural networks: DNNs, CNNs, RNNs</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">5</td>
+    <td class="tg-us36">Neural networks: DNNs, CNNs, RNNs</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">6</td>
-    <td class="tg-yw4l">Modeling Neural networks with Spatial</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">6</td>
+    <td class="tg-us36">Modeling Neural networks with Spatial</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">7</td>
-    <td class="tg-yw4l">Analyzing performance and energy with Spatial</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">7</td>
+    <td class="tg-us36">Analyzing performance and energy with Spatial</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">8</td>
-    <td class="tg-yw4l">Training: SGD, back propagation, statistical efficiency, batch size </td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">8</td>
+    <td class="tg-us36">Training: SGD, back propagation, statistical efficiency, batch size </td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">9</td>
-    <td class="tg-yw4l">Parallelizing SGD: Hogwild!, asynchrony and hardware efficiency</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">9</td>
+    <td class="tg-us36">Parallelizing SGD: Hogwild!, asynchrony and hardware efficiency</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">10</td>
-    <td class="tg-yw4l">Low precision: Buckwild!, HALP</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">10</td>
+    <td class="tg-us36">Low precision: Buckwild!, HALP</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">11</td>
-    <td class="tg-yw4l">Sparsity</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">11</td>
+    <td class="tg-us36">Sparsity</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">12</td>
-    <td class="tg-yw4l">SIMD and GPUs</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">12</td>
+    <td class="tg-us36">SIMD and GPUs</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">13</td>
-    <td class="tg-yw4l">ASICs: DianNao, Eyeriss, TPU</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">13</td>
+    <td class="tg-us36">ASICs: DianNao, Eyeriss, TPU</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">14</td>
-    <td class="tg-yw4l">FPGAs: Catapult, Brainwave</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">14</td>
+    <td class="tg-us36">FPGAs: Catapult, Brainwave</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">15</td>
-    <td class="tg-yw4l">ML benchmarks: DAWNbench, MLPerf</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">15</td>
+    <td class="tg-us36">ML benchmarks: DAWNbench, MLPerf</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">16</td>
-    <td class="tg-yw4l">Guest lecture from academia</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">16</td>
+    <td class="tg-us36">Guest lecture from academia</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">17</td>
-    <td class="tg-yw4l">Guest lecture from industry</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">17</td>
+    <td class="tg-us36">Guest lecture from industry</td>
+    <td class="tg-us36">A, B</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">18</td>
-    <td class="tg-yw4l">Project presentations</td>
-    <td class="tg-yw4l">A, B</td>
+    <td class="tg-us36">18</td>
+    <td class="tg-us36">Project presentations</td>
+    <td class="tg-us36">A, B</td>
   </tr>
 </table>
-
 ## [](#Lectures) Guest Lectures
 
 ---
