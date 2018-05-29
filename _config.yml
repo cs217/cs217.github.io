@@ -1,0 +1,8 @@
+title: Hardware Accelerators for Machine Learning (CS 217)
+show_downloads: false
+google_analytics:
+theme:
+gems:
+  - jekyll-mentions 
+plugins:
+  - jekyll-seo-tag

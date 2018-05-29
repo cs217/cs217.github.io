@@ -1,0 +1,354 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  -webkit-font-smoothing: antialiased; }
+
+.bold {
+  font-weight: bold; }
+
+.bs-docs-footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 100px;
+  color: #767676;
+  text-align: center;
+  border-top: 1px solid #e5e5e5; }
+
+.bs-docs-social {
+  margin-bottom: 20px;
+  text-align: center; }
+
+.bs-docs-social-buttons {
+  display: inline-block;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none; }
+
+.bs-docs-social-buttons li {
+  display: inline-block;
+  padding: 5px 8px;
+  line-height: 1; }
+
+.bs-docs-footer-links {
+  padding-left: 0;
+  margin-top: 20px; }
+
+.bs-docs-footer-links li {
+  display: inline;
+  padding: 0 2px; }
+
+.button a {
+  color: #ffffff; }
+
+.caption {
+  margin: 10px 10%;
+  font-size: 1.1em;
+  line-height: 1.5em; }
+
+.citation {
+  font-size: 1.9rem;
+  line-height: 2.9rem;
+  margin: 0 0 25px 0; }
+
+.contact-info {
+  margin: 0 0 2.5rem;
+  line-height: 2.3rem; }
+
+.copyright a {
+  color: #fff; }
+
+.crud-options-box {
+  margin: 20px auto 0 auto; }
+
+.homepage img {
+  max-height: 175px; }
+  @media (min-width: 768px) {
+    .homepage img {
+      max-height: 225px; } }
+
+.homepage .jumbotron {
+  background-color: inherit;
+  text-align: center; }
+
+.homepage .jumbotron .lead {
+  font-size: 2.1em;
+  margin: 0 0 40px 0; }
+
+.homepage .jumbotron p {
+  font-size: 1.3em; }
+
+.image {
+  border: 1px solid #d9d9d9;
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  background-color: #f2f2f2;
+  border-radius: 5px; }
+
+.index-image {
+  margin: 15px; }
+
+.jumbotron .row {
+  text-align: center; }
+
+.jumbotron .Media {
+  margin-bottom: 40px; }
+
+.jumbotron a.button {
+  float: none;
+  color: white;
+  background-color: #337ab7;
+  border: 1px solid #262626;
+  padding: 0px 40px;
+  height: 45px;
+  line-height: 42px;
+  font-size: 1.25em; }
+
+.jumbotron a.button:hover {
+  background-color: #7D7DCA;
+  text-decoration: none;
+  color: white; }
+
+.jumbotron a.button:active {
+  background-color: #5757af;
+  text-decoration: none; }
+
+.logo-text {
+  font-family: "Calibri", "Source Sans Pro", sans-serif;
+  color: #5757af; }
+
+.Media {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  justify-content: center; }
+
+.Media-figure {
+  flex: 0 1 auto; }
+
+.Media-body {
+  flex: 0 1 auto;
+  padding: 10px 0 0 0; }
+
+.Media-body h1 {
+  margin: 0px;
+  font-size: 4em;
+  color: #5757af; }
+
+.Media-body h1.org {
+  font-size: 2.5em; }
+
+@media (min-width: 680px) {
+  .Media {
+    flex-direction: row; }
+
+  .Media .Media-figure {
+    margin-right: 4em; }
+
+  .Media-body {
+    padding: 0 30px 0 0; } }
+.post-detail h3 {
+  margin-bottom: 10px; }
+
+.post-detail .image {
+  border: 1px solid #d9d9d9;
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  cursor: pointer;
+  background-color: #f2f2f2;
+  border-radius: 5px; }
+
+.package-detail {
+  padding: 10px; }
+
+.page-header {
+  text-align: center;
+  color: #0c0c0c;
+  /*margin: 0 0 1em 0;*/ }
+
+.row-registry {
+  background-color: #EEEEEE;
+  padding: 10px;
+  margin: 5px 0 20px; }
+
+.row-registry .col-sm-3 {
+  padding-right: 3px;
+  padding-left: 3px; }
+
+.registry-package {
+  margin: 5px 0; }
+
+.registry-package-wrapper {
+  position: relative;
+  margin: auto;
+  max-width: 300px;
+  height: 18em;
+  padding: 10px;
+  background-color: #fefefe;
+  border: 1px solid #ECECEC; }
+
+.registry-package-wrapper h3 {
+  margin: 0;
+  border-bottom: solid 1px #EEEEEE;
+  padding: 0 0 8px 0; }
+
+.registry-package-wrapper .description {
+  margin: 16px 0;
+  font-size: 16px;
+  max-height: 120px;
+  overflow: hidden; }
+
+.registry-package-wrapper .usage {
+  position: absolute;
+  bottom: 10px; }
+
+.research-header {
+  text-align: center;
+  color: #262626;
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 1px solid #eee; }
+
+.research-header h1 {
+  font-size: 3em;
+  font-weight: bold; }
+
+.research-header span {
+  font-size: 1.5em; }
+
+.research-container {
+  margin: auto;
+  max-width: 675px;
+  padding: 0px 0 50px;
+  font-size: 1.9rem;
+  line-height: 2.9rem; }
+  .research-container h2 {
+    margin-top: 32px;
+    margin-bottom: 16px;
+    font-weight: bold; }
+  .research-container img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%; }
+  .research-container table {
+    font-size: 1.4rem; }
+  .research-container > ul > li > ul > li {
+    list-style-type: disc;
+    list-style-position: inside; }
+
+.table-comma:last-child {
+  display: none; }
+
+@media (min-width: 768px) {
+  .navbar-toggle {
+    display: none; } }
+table > tbody > tr > td, table > tbody > tr > th, table > tfoot > tr > td, table > tfoot > tr > th, table > thead > tr > td, table > thead > tr > th {
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+  font-size: 1.35em; }
+
+.cs-table tr td:first-child {
+  width: 180px; }
+
+.cs-table tr td:nth-child(2) {
+  width: 140px; }
+
+.word-logo {
+  font-size: 2.2em;
+  font-weight:800;
+ /*color: #5757af;*/
+  color: black;
+  font-family: "Calibri", "Source Sans Pro", sans-serif; }
+
+.nav>li>a:hover {
+   background-color: #55a532; !important;
+    border-radius: 6px    
+}
+.nav>li>a {
+   color:#55a532; !important;
+}
+
+
+.homepage-cj-intro {
+    width: 60%
+}
+
+@media (min-width: 768px) {
+    .homepage-cj-intro {
+        padding-right: 60px
+    }
+}
+
+@media (min-width: 1004px) {
+    .homepage-cj-intro {
+        width: 65%
+    }
+}
+
+
+.container-responsive {
+    max-width: 980px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+
+@media (max-width: 768px) {
+    .container-responsive .column {
+        display: block;
+        float: none;
+        width: 100%
+    }
+}
+
+.homepage-cj-signup {
+    width: 100%;
+}
+
+@media (min-width: 1004px) {
+    .homepage-cj-signup {
+        width: 90%;
+        display: inline-block;
+        float: none;
+    }
+}
+
+.homepage-cj-signup .form {
+    width: 100%;  
+}
+.homepage-cj-signup .form-control {
+    width: 100%;
+
+}
+
+.home-cj-signup .form-control-lg {
+    min-height: 40px;
+    padding: 10px;
+    font-size: 16px;
+    background-clip: padding-box;
+    border-color: rgba(0, 0, 0, 0.25);
+    border-radius: 5px
+}
+
+
+
+.form-control-note {
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-size: 2px; 
+    color: rgba(255, 255, 255, 0.7)
+}
+
+
+.text-white {
+    color: #fff !important
+}
+
+.text-gray {
+    color: rgba(128, 128, 128, 0.7) !important
+}
+/*# sourceMappingURL=nmr.css.map */
+
