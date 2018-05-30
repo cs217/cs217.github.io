@@ -2,7 +2,7 @@
 layout: titlepage
 ---
 
-For questions and concerns, please contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
+For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
 
 ## Schedule
 
