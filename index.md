@@ -10,15 +10,15 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-cpu2{border-color:#000000;vertical-align:top}
 .tg .tg-us36{border-color:inherit;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-c3ow">Lecture</th>
-    <th class="tg-c3ow">Topic</th>
-    <th class="tg-c3ow">Reading</th>
+    <th class="tg-7btt">Lecture</th>
+    <th class="tg-7btt">Topic</th>
+    <th class="tg-7btt">Reading</th>
   </tr>
   <tr>
     <td class="tg-us36">1</td>
@@ -42,7 +42,7 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
   </tr>
   <tr>
     <td class="tg-us36">5</td>
-    <td class="tg-us36">Real-World Architectures: Putting it into practice<br>&nbsp;&nbsp;&nbsp;&nbsp;Accelerating GEMM:<br>&nbsp;&nbsp;&nbsp;&nbsp;Custom, GPU,  TPU1 architectures and their GEMM performance</td>
+    <td class="tg-us36">Real-World Architectures: Putting it into practice<br>Accelerating GEMM:<br>Custom, GPU,  TPU1 architectures and their GEMM performance</td>
     <td class="tg-us36"><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a><br><a href="https://ieeexplore.ieee.org/document/6212466/">Codesign Tradeoffs</a><br><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">NVIDIA Tesla V100</a></td>
   </tr>
   <tr>
@@ -57,13 +57,13 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
   </tr>
   <tr>
     <td class="tg-us36">8</td>
-    <td class="tg-us36">Modeling neural networks with Spatial, Analyzing performance and <br>  energy with Spatial</td>
+    <td class="tg-us36">Modeling neural networks with Spatial, Analyzing <br>  performance and energy with Spatial</td>
     <td class="tg-us36">Spatial<br><span style="color:rgb(254, 0, 0)">One related work</span></td>
   </tr>
   <tr>
     <td class="tg-us36">9</td>
     <td class="tg-us36">Resilience of DNNs: Sparsity and Low Precision Networks</td>
-    <td class="tg-us36">Some theory paper<br><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a><br><a href="https://arxiv.org/pdf/1711.02213.pdf">Flexpoint of Nervana</a><br>Boris Ginsburg: <a href="https://arxiv.org/abs/1708.03888">paper</a>, <a href="http://on-demand.gputechconf.com/gtc/2017/presentation/s7218-training-with-mixed-precision-boris-ginsburg.pdf">presentation</a><br><span style="color:rgb(254, 0, 0)">LSTM Block Compression by Baidu?</span></td>
+    <td class="tg-us36"><span style="color:rgb(254, 0, 0)">Some theory paper</span><br><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a><br><a href="https://arxiv.org/pdf/1711.02213.pdf">Flexpoint of Nervana</a><br>Boris Ginsburg: <a href="https://arxiv.org/abs/1708.03888">paper</a>, <a href="http://on-demand.gputechconf.com/gtc/2017/presentation/s7218-training-with-mixed-precision-boris-ginsburg.pdf">presentation</a><br><span style="color:rgb(254, 0, 0)">LSTM Block Compression by Baidu?</span></td>
   </tr>
   <tr>
     <td class="tg-us36">10</td>
@@ -73,7 +73,7 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
   <tr>
     <td class="tg-us36">11</td>
     <td class="tg-us36">Low precision training</td>
-    <td class="tg-us36"><a href="https://arxiv.org/abs/1803.03383">HALP</a><br><span style="color:rgb(254, 0, 0)">Another paper like Ternary or binary networks</span><br>See Boris Ginsburg's work (lecture 9)</td>
+    <td class="tg-us36"><a href="https://arxiv.org/abs/1803.03383">HALP</a><br><span style="color:rgb(254, 0, 0)">Ternary or binary networks</span><br>See Boris Ginsburg's work (lecture 9)</td>
   </tr>
   <tr>
     <td class="tg-us36">12</td>
@@ -81,21 +81,22 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
     <td class="tg-us36"><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a><br><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf">Google’s training paper for Asynch training</a><br><span style="color:rgb(254, 0, 0)">Obstinate cache?</span></td>
   </tr>
   <tr>
-    <td class="tg-us36">13</td>
-    <td class="tg-us36">FPGAs and CGRAs: Catapult, Brainwave, Plasticine</td>
-    <td class="tg-us36"><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf">Catapult</a><br><a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/03/mi0218_Chung-2018Mar25.pdf">Brainwave</a><br><a href="http://dawn.cs.stanford.edu/pubs/plasticine-isca2017.pdf">Plasticine</a></td>
+    <td class="tg-cpu2">13</td>
+    <td class="tg-cpu2">FPGAs and CGRAs: Catapult, Brainwave, Plasticine</td>
+    <td class="tg-cpu2"><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf">Catapult</a><br><a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/03/mi0218_Chung-2018Mar25.pdf">Brainwave</a><br><a href="http://dawn.cs.stanford.edu/pubs/plasticine-isca2017.pdf">Plasticine</a></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">14</td>
-    <td class="tg-yw4l">ML benchmarks: DAWNbench, MLPerf</td>
-    <td class="tg-yw4l"><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a><br><span style="color:rgb(254, 0, 0)">Some other benchmark paper to compare</span></td>
+    <td class="tg-cpu2">14</td>
+    <td class="tg-cpu2">ML benchmarks: DAWNbench, MLPerf</td>
+    <td class="tg-cpu2"><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a><br><span style="color:rgb(254, 0, 0)">Some other benchmark paper</span></td>
   </tr>
   <tr>
-    <td class="tg-yw4l">15</td>
-    <td class="tg-yw4l">Project presentations</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">15</td>
+    <td class="tg-cpu2">Project presentations</td>
+    <td class="tg-cpu2"></td>
   </tr>
 </table>
+
 
 ## [](#Lectures) Guest Lectures
 
