@@ -2,7 +2,11 @@
 layout: titlepage
 ---
 
-For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
+This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
+
+## Teaching Assistant
+
+For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
 
 ## Schedule
 
@@ -78,7 +82,7 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
   <tr>
     <td class="tg-us36">12</td>
     <td class="tg-us36">Training in Distributed and Parallel systems:  <br>Hogwild!, asynchrony and hardware efficiency</td>
-    <td class="tg-us36"><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a><br><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf">Google’s training paper for Asynch training</a><br><span style="color:rgb(254, 0, 0)">Obstinate cache?</span></td>
+    <td class="tg-us36"><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a><br><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf">Large Scale Distributed Deep Networks</a><br><span style="color:rgb(254, 0, 0)">Obstinate cache?</span></td>
   </tr>
   <tr>
     <td class="tg-cpu2">13</td>
@@ -112,17 +116,22 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
 </div>
 </div>
 
+## Related Stanford Courses
+- [CS231n](http://cs231n.github.io)
+- [STATS 385](https://stats385.github.io/)
+
 ## [Reading list and other resources](readings)
 
 ## [Lecture slides](lecture_slides)    
 
 ## [Basic information about deep learning](basicinfo)    
 
-## [Cheat sheet -- stuff that everyone needs to know](cheat_sheet)    
+## [Cheat sheet -- things that everyone needs to know](cheat_sheet)    
 
 ## [Blogs](blogs)
 
 ## [Grading](grading)
+
 
 <!--
  If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit.   
