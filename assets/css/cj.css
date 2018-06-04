@@ -102,9 +102,9 @@ margin:auto;
 
 .instructor {
   display: inline-block;
-  width: 180px;
+  width: 150px;
   text-align: center;
-  margin-right: 20px;
+  margin-right: 0px;
 }
 
 
