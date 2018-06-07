@@ -6,6 +6,17 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 
 ## Teaching Assistant
 
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/Stefan_Hadjis.png">
+</div>
+<div class="card">
+<a class="talkdate" href="https://cs.stanford.edu/people/shadjis/">Stefan Hadjis</a> <br>
+<span class="speaker">Office Hours TBA</span> <br>
+</div>
+</div>
+
 For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
 
 ## Schedule
@@ -122,7 +133,7 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/).
 <img src="assets/img/Robert_Schreiber.jpeg">
 </div>
 <div class="card">
-<a class="talkdate" href="./schreiber_lecture">Robert Schreiber</a> <br>
+<a class="talkdate" href="./schreiber_lecture">Robert Schreiber, Cerebras Systems</a> <br>
 <span class="speaker">Understanding Numerical Errors</span> <br>
 <span class="speakerposition">Date TBA</span>
 </div>
@@ -134,7 +145,7 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/).
 <img src="assets/img/Mikhail_Smelyanskiy.JPG">
 </div>
 <div class="card">
-<a class="talkdate" href="./smelyanskiy_lecture">Mikhail Smelyanskiy</a> <br>
+<a class="talkdate" href="./smelyanskiy_lecture">Mikhail Smelyanskiy, Facebook</a> <br>
 <span class="speaker">AI at Facebook Datacenter Scale</span> <br>
 <span class="speakerposition">Date TBA</span>
 </div>
