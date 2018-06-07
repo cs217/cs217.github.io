@@ -4,7 +4,7 @@
 </div>
 [Readings for this lecture](readings#lecture-3)
 
-![Boris Ginsburg](/assets/img/Boris_Ginsburg-200x200.jpg)  
+![Mikhail Smelyanskiy](/assets/img/Mikhail_Smelyanskiy.JPG)  
 
 <p align="justify"><a href="https://www.nari.ee.ethz.ch/commth/people/show/boelcskei">Helmut Bolcskei</a> is a professor in the Department of Information Technology and Electrical Engineering at ETH Zurich. His research interests are in information theory, mathematical signal processing, machine learning, and statistics. He received the Dipl.-Ing. and Dr. techn. degrees in electrical engineering from Vienna University of Technology, Vienna, Austria, in 1994 and 1997, respectively. In 1998 he was with Vienna University of Technology. From 1999 to 2001 he was a postdoctoral researcher in the Information Systems Laboratory, Department of Electrical Engineering, and in the Department of Statistics, Stanford University, Stanford, CA. He was in the founding team of Iospan Wireless Inc., a Silicon Valley-based startup company (acquired by Intel Corporation in 2002) specialized in multiple-input multiple-output (MIMO) wireless systems for high-speed Internet access, and was a co-founder of Celestrius AG, Zurich, Switzerland. From 2001 to 2002 he was an Assistant Professor of Electrical Engineering at the University of Illinois at Urbana-Champaign. He has been with ETH Zurich since 2002, where he is a Professor of Electrical Engineering. He was a visiting researcher at Philips Research Laboratories Eindhoven, The Netherlands, ENST Paris, France, and the Heinrich Hertz Institute Berlin, Germany.</p>
 
