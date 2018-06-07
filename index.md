@@ -116,6 +116,18 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/).
 </div>
 </div>
 
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/Robert_Schreiber.jpeg">
+</div>
+<div class="card">
+<a class="talkdate" href="./schreiber_lecture">Robert Schreiber</a> <br>
+<span class="speaker">Understanding Numerical Errors</span> <br>
+<span class="speakerposition">Date TBA</span>
+</div>
+</div>
+
 ## Related Stanford Courses
 - [CS231n](http://cs231n.github.io)
 - [STATS 385](https://stats385.github.io/)
