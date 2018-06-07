@@ -6,7 +6,6 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 
 ## Teaching Assistant
 
----
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/Stefan_Hadjis.png">
@@ -16,8 +15,6 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 <span class="speaker">Office Hours TBA</span> <br>
 </div>
 </div>
-
-For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/). 
 
 ## Schedule
 
@@ -115,7 +112,6 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/).
 
 ## [](#Lectures) Guest Lectures
 
----
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/Boris_Ginsburg-200x200.jpg">
@@ -152,6 +148,7 @@ For questions contact [Stefan Hadjis](https://cs.stanford.edu/people/shadjis/).
 </div>
 
 ## Related Stanford Courses
+- [CS230](http://cs230.stanford.edu/syllabus.html)
 - [CS231n](http://cs231n.github.io)
 - [STATS 385](https://stats385.github.io/)
 
