@@ -8,7 +8,7 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/Stefan_Hadjis.png">
+<img src="assets/img/stefan.jpg">
 </div>
 <div class="card">
 <a class="talkdate" href="https://cs.stanford.edu/people/shadjis/">Stefan Hadjis</a> <br>
