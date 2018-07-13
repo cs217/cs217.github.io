@@ -70,7 +70,7 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
   <tr>
     <td class="tg-us36">8</td>
     <td class="tg-us36">Modeling neural networks with Spatial, Analyzing <br>  performance and energy with Spatial</td>
-    <td class="tg-us36">Spatial<br><span style="color:rgb(254, 0, 0)">One related work</span></td>
+    <td class="tg-us36">><a href="http://arsenalfc.stanford.edu/papers/spatial18.pdf">Spatial</a><br><span style="color:rgb(254, 0, 0)">One related work</span></td>
   </tr>
   <tr>
     <td class="tg-us36">9</td>
@@ -143,6 +143,18 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 <div class="card">
 <a class="talkdate" href="./smelyanskiy_lecture">Mikhail Smelyanskiy, Facebook</a> <br>
 <span class="speaker">AI at Facebook Datacenter Scale</span> <br>
+<span class="speakerposition">Date TBA</span>
+</div>
+</div>
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/cliff_young.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./young_lecture">Cliff Young, Google</a> <br>
+<span class="speaker">Topic TBA</span> <br>
 <span class="speakerposition">Date TBA</span>
 </div>
 </div>
