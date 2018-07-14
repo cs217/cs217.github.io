@@ -25,12 +25,12 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 .tg .tg-cpu2{border-color:#000000;vertical-align:top}
 .tg .tg-mqa1{font-weight:bold;border-color:#000000;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 951px">
+<table class="tg" style="undefined;table-layout: fixed; width: 953px">
 <colgroup>
-<col style="width: 80px">
+<col style="width: 79px">
 <col style="width: 443px">
-<col style="width: 273px">
-<col style="width: 155px">
+<col style="width: 288px">
+<col style="width: 143px">
 </colgroup>
   <tr>
     <th class="tg-mqa1">Lecture</th>
