@@ -71,7 +71,7 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
   <tr>
     <td class="tg-cpu2">6</td>
     <td class="tg-cpu2">Neural networks: MLPs and CNNs Inference</td>
-    <td class="tg-cpu2"><span style="color:rgb(254, 0, 0)">Viviense IEEE proceeding</span><br><span style="color:rgb(254, 0, 0)">Brooks’s book (Selected Chapters)</span></td>
+    <td class="tg-cpu2"><span style="color:rgb(254, 0, 0)">IEEE proceeding</span><br><span style="color:rgb(254, 0, 0)">Brooks’s book (Selected Chapters)</span></td>
     <td class="tg-cpu2">CNN Inference<br>Accelerators</td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
   <tr>
     <td class="tg-cpu2">14</td>
     <td class="tg-cpu2">ML benchmarks: DAWNbench, MLPerf</td>
-    <td class="tg-cpu2"><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a><br><span style="color:rgb(254, 0, 0)">Some other benchmark paper</span></td>
+    <td class="tg-cpu2"><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a><br><a href="https://mlperf.org/">MLPerf</a></td>
     <td class="tg-cpu2"></td>
   </tr>
   <tr>
