@@ -23,110 +23,112 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-cpu2{border-color:#000000;vertical-align:top}
-.tg .tg-us36{border-color:inherit;vertical-align:top}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
+.tg .tg-mqa1{font-weight:bold;border-color:#000000;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 951px">
+<colgroup>
+<col style="width: 80px">
+<col style="width: 443px">
+<col style="width: 273px">
+<col style="width: 155px">
+</colgroup>
   <tr>
-    <th class="tg-7btt">Lecture</th>
-    <th class="tg-7btt">Topic</th>
-    <th class="tg-7btt">Reading</th>
-    <th class="tg-amwm">Spatial Assignment</th>
+    <th class="tg-mqa1">Lecture</th>
+    <th class="tg-mqa1">Topic</th>
+    <th class="tg-mqa1">Reading</th>
+    <th class="tg-mqa1">Spatial Assignment</th>
   </tr>
   <tr>
-    <td class="tg-us36">1</td>
-    <td class="tg-us36">Introduction, role of hardware accelerators in post Dennard<br>&nbsp;&nbsp;and Moore era</td>
-    <td class="tg-us36"><a href="https://ieeexplore.ieee.org/document/6241647/">Is Dark silicon useful?</a><br>Hennessy Patterson Chapter 7.1-7.2</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">1</td>
+    <td class="tg-cpu2">Introduction, role of hardware accelerators in post Dennard<br>&nbsp;&nbsp;and Moore era</td>
+    <td class="tg-cpu2"><a href="https://ieeexplore.ieee.org/document/6241647/">Is Dark silicon useful?</a><br>Hennessy Patterson Chapter 7.1-7.2</td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
-    <td class="tg-us36">2</td>
-    <td class="tg-us36">Classical ML algorithms: Regression, SVMs (What is the<br>&nbsp;&nbsp;building block?)</td>
-    <td class="tg-us36"><a href="https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf">TABLA</a></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">2</td>
+    <td class="tg-cpu2">Classical ML algorithms: Regression, SVMs (What is the<br>&nbsp;&nbsp;building block?)</td>
+    <td class="tg-cpu2"><a href="https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf">TABLA</a></td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
-    <td class="tg-us36">3</td>
-    <td class="tg-us36">Linear algebra fundamentals and accelerating linear algebra<br>BLAS operations<br>20th century techniques: Systolic arrays and MIMDs, CGRAs</td>
-    <td class="tg-us36"><a href="http://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf">Why Systolic Architectures?</a><br><a href="https://www.cs.utexas.edu/users/pingali/CS378/2008sp/papers/gotoPaper.pdf">Anatomy of high performance GEMM</a></td>
-    <td class="tg-yw4l">Linear Algebra<br>Accelerators</td>
+    <td class="tg-cpu2">3</td>
+    <td class="tg-cpu2">Linear algebra fundamentals and accelerating linear algebra<br>BLAS operations<br>20th century techniques: Systolic arrays and MIMDs, CGRAs</td>
+    <td class="tg-cpu2"><a href="http://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf">Why Systolic Architectures?</a><br><a href="https://www.cs.utexas.edu/users/pingali/CS378/2008sp/papers/gotoPaper.pdf">Anatomy of high performance GEMM</a></td>
+    <td class="tg-cpu2">Linear Algebra<br>Accelerators</td>
   </tr>
   <tr>
-    <td class="tg-us36">4</td>
-    <td class="tg-us36">Evaluating Performance, Energy efficiency, Parallelism, Locality,<br>  Memory hierarchy, Roofline model </td>
-    <td class="tg-us36"><a href="https://arxiv.org/abs/1602.04183">Dark Memory</a></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">4</td>
+    <td class="tg-cpu2">Evaluating Performance, Energy efficiency, Parallelism, Locality,<br>  Memory hierarchy, Roofline model </td>
+    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1602.04183">Dark Memory</a></td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
-    <td class="tg-us36">5</td>
-    <td class="tg-us36">Real-World Architectures: Putting it into practice<br>Accelerating GEMM:<br>Custom, GPU,  TPU1 architectures and their GEMM performance</td>
-    <td class="tg-us36"><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a><br><a href="https://ieeexplore.ieee.org/document/6212466/">Codesign Tradeoffs</a><br><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">NVIDIA Tesla V100</a></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">5</td>
+    <td class="tg-cpu2">Real-World Architectures: Putting it into practice<br>Accelerating GEMM:<br>Custom, GPU,  TPU1 architectures and their GEMM performance</td>
+    <td class="tg-cpu2"><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a><br><a href="https://ieeexplore.ieee.org/document/6212466/">Codesign Tradeoffs</a><br><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">NVIDIA Tesla V100</a></td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
-    <td class="tg-us36">6</td>
-    <td class="tg-us36">Neural networks: MLPs and CNNs Inference</td>
-    <td class="tg-us36"><span style="color:rgb(254, 0, 0)">Viviense IEEE proceeding</span><br><span style="color:rgb(254, 0, 0)">Brooks’s book (Selected Chapters)</span></td>
-    <td class="tg-yw4l">CNN Inference<br>Accelerators</td>
+    <td class="tg-cpu2">6</td>
+    <td class="tg-cpu2">Neural networks: MLPs and CNNs Inference</td>
+    <td class="tg-cpu2"><span style="color:rgb(254, 0, 0)">Viviense IEEE proceeding</span><br><span style="color:rgb(254, 0, 0)">Brooks’s book (Selected Chapters)</span></td>
+    <td class="tg-cpu2">CNN Inference<br>Accelerators</td>
   </tr>
   <tr>
-    <td class="tg-us36">7</td>
-    <td class="tg-us36"><span style="font-weight:bold">(2 Lectures) </span>Accelerating Inference for CNNs:<br>    Blocking and Parallelism in practice<br>    DianNao, Eyeriss, TPU1<br></td>
-    <td class="tg-us36"><a href="https://arxiv.org/abs/1606.04209">Systematic Approach to Blocking</a><br><a href="https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf">Eyeriss</a><br>Google TPU (see lecture 5)</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">7</td>
+    <td class="tg-cpu2"><span style="font-weight:bold">(2 Lectures) </span>Accelerating Inference for CNNs:<br>Blocking and Parallelism in practice<br>DianNao, Eyeriss, TPU1<br></td>
+    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1606.04209">Systematic Approach to Blocking</a><br><a href="https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf">Eyeriss</a><br>Google TPU (see lecture 5)</td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
-    <td class="tg-us36">8</td>
-    <td class="tg-us36">Modeling neural networks with Spatial, Analyzing <br>  performance and energy with Spatial</td>
-    <td class="tg-us36"><a href="http://arsenalfc.stanford.edu/papers/spatial18.pdf">Spatial</a><br><span style="color:rgb(254, 0, 0)">One related work</span></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">8</td>
+    <td class="tg-cpu2">Modeling neural networks with Spatial, Analyzing <br>  performance and energy with Spatial</td>
+    <td class="tg-cpu2">Spatial<br><span style="color:rgb(254, 0, 0)">One related work</span></td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
-    <td class="tg-us36">9</td>
-    <td class="tg-us36">Training: SGD, back propagation, statistical efficiency, batch size</td>
-    <td class="tg-us36"><span style="color:rgb(254, 0, 0)">NIPS workshop last year</span><br><a href="https://supercomputersfordl2017.github.io/Presentations/SimonKnowlesGraphCore.pdf">Graphcore</a></td>
-    <td class="tg-yw4l">Training<br>Accelerators</td>
+    <td class="tg-cpu2">9</td>
+    <td class="tg-cpu2">Training: SGD, back propagation, statistical efficiency, batch size</td>
+    <td class="tg-cpu2"><span style="color:rgb(254, 0, 0)">NIPS workshop last year</span><br><a href="https://supercomputersfordl2017.github.io/Presentations/SimonKnowlesGraphCore.pdf">Graphcore</a></td>
+    <td class="tg-cpu2">Training<br>Accelerators</td>
   </tr>
   <tr>
-    <td class="tg-us36">10</td>
-    <td class="tg-us36">Resilience of DNNs: Sparsity and Low Precision Networks</td>
-    <td class="tg-us36">Some theory paper<br><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a><br><a href="https://arxiv.org/pdf/1711.02213.pdf">Flexpoint of Nervana</a><br>Boris Ginsburg: <a href="https://arxiv.org/abs/1708.03888">paper</a>, <a href="http://on-demand.gputechconf.com/gtc/2017/presentation/s7218-training-with-mixed-precision-boris-ginsburg.pdf">presentation</a><br>LSTM Block Compression by Baidu?</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">10</td>
+    <td class="tg-cpu2">Resilience of DNNs: Sparsity and Low Precision Networks</td>
+    <td class="tg-cpu2">Some theory paper<br><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a><br><a href="https://arxiv.org/pdf/1711.02213.pdf">Flexpoint of Nervana</a><br>Boris Ginsburg: <a href="https://arxiv.org/abs/1708.03888">paper</a>, <a href="http://on-demand.gputechconf.com/gtc/2017/presentation/s7218-training-with-mixed-precision-boris-ginsburg.pdf">presentation</a><br>LSTM Block Compression by Baidu?</td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
-    <td class="tg-us36">11</td>
-    <td class="tg-us36">Low precision training</td>
-    <td class="tg-us36"><a href="https://arxiv.org/abs/1803.03383">HALP</a><br><span style="color:rgb(254, 0, 0)">Ternary or binary networks</span><br>See Boris Ginsburg's work (lecture 9)</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">11</td>
+    <td class="tg-cpu2">Low precision training</td>
+    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1803.03383">HALP</a><br><span style="color:rgb(254, 0, 0)">Ternary or binary networks</span><br>See Boris Ginsburg's work (lecture 9)</td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
-    <td class="tg-us36">12</td>
-    <td class="tg-us36">Training in Distributed and Parallel systems:  <br>Hogwild!, asynchrony and hardware efficiency</td>
-    <td class="tg-us36"><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a><br><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf">Large Scale Distributed Deep Networks</a><br><span style="color:rgb(254, 0, 0)">Obstinate cache?</span></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2">12</td>
+    <td class="tg-cpu2">Training in Distributed and Parallel systems:  <br>Hogwild!, asynchrony and hardware efficiency</td>
+    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a><br><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf">Large Scale Distributed Deep Networks</a><br><span style="color:rgb(254, 0, 0)">Obstinate cache?</span></td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
     <td class="tg-cpu2">13</td>
     <td class="tg-cpu2">FPGAs and CGRAs: Catapult, Brainwave, Plasticine</td>
     <td class="tg-cpu2"><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf">Catapult</a><br><a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/03/mi0218_Chung-2018Mar25.pdf">Brainwave</a><br><a href="http://dawn.cs.stanford.edu/pubs/plasticine-isca2017.pdf">Plasticine</a></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
     <td class="tg-cpu2">14</td>
     <td class="tg-cpu2">ML benchmarks: DAWNbench, MLPerf</td>
     <td class="tg-cpu2"><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a><br><span style="color:rgb(254, 0, 0)">Some other benchmark paper</span></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2"></td>
   </tr>
   <tr>
     <td class="tg-cpu2">15</td>
     <td class="tg-cpu2">Project presentations</td>
     <td class="tg-cpu2"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-cpu2"></td>
   </tr>
 </table>
-
 
 ## [](#Lectures) Guest Lectures
 
