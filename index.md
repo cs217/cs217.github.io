@@ -83,7 +83,7 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
   <tr>
     <td class="tg-cpu2">8</td>
     <td class="tg-cpu2">Modeling neural networks with Spatial, Analyzing <br>  performance and energy with Spatial</td>
-    <td class="tg-cpu2">Spatial<br><span style="color:rgb(254, 0, 0)">One related work</span></td>
+    <td class="tg-cpu2"><a href="http://arsenalfc.stanford.edu/papers/spatial18.pdf">Spatial</a><br><span style="color:rgb(254, 0, 0)">One related work</span></td>
     <td class="tg-cpu2"></td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
   <tr>
     <td class="tg-cpu2">11</td>
     <td class="tg-cpu2">Low precision training</td>
-    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1803.03383">HALP</a><br><span style="color:rgb(254, 0, 0)">Ternary or binary networks</span><br>See Boris Ginsburg's work (lecture 9)</td>
+    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1803.03383">HALP</a><br><span style="color:rgb(254, 0, 0)">Ternary or binary networks</span><br>See Boris Ginsburg's work (lecture 10)</td>
     <td class="tg-cpu2"></td>
   </tr>
   <tr>
