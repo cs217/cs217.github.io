@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+      <!-- CJ styles 
+	<link rel="stylesheet" type="text/css" href="assets/css/github.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/github2.css">
+		  -->
+		
+    <link rel="stylesheet" type="text/css" href="assets/css/cj.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	
+	
+	
+  </head>
+  <body>
+    <section class="page-header">   		  
+		  	
+			
+			
+		      	<h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+		      	<h2 class="project-tagline">Stanford University, Fall 2018</h2>
+				
+				
+				
+				<div>
+        
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 55px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 4</div>
+  <img src="/assets/img/1___4_cylinder.gif" style="width:100%">
+  <div class="text">GigaFLOPS</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 4</div>
+  <img src="/assets/img/2___TURBO_vs_SUPER.gif" style="width:100%">
+  <div class="text">TeraFLOPS...</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 4</div>
+  <img src="/assets/img/3___WANKEL.gif" style="width:100%">
+  <div class="text">PetaFLOPS......</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 4</div>
+  <img src="/assets/img/4___JET.gif" style="width:100%">
+  <div class="text">EXAFLOPS! Welcome to CS217</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+          
+				</div>
+				<div id="centered" style="margin: 0 auto; width:100%;">
+					<p>This course provides in-depth coverage of the architectural techniques used to design accelerators for training and inference in machine learning systems. This course will cover classical ML algorithms such as linear regression and support vector machines as well as DNN models such as convolutional neural nets, and recurrent neural nets. We will consider both training and inference for these models and discuss the impact of parameters such as batch size, precision, sparsity and compression on the accuracy of these models. We will cover the design of accelerators for ML model inference and training. Students will become familiar with hardware implementation techniques for using parallelism, locality, and low precision to implement the core computational kernels used in ML. To design energy-efficient accelerators, students will develop the intuition to make trade-offs between ML model parameters and hardware implementation techniques. Students will read recent research papers and complete a design project.<p>
+				</div>
+
+
+
+			  
+		  <div>
+			  
+			  <!--
+			  {% if site.github.is_project_page %}
+		        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+		      {% endif %}
+				-->  
+		      	{% if site.show_downloads %}
+		        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+		        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+		      {% endif %}
+		  
+		  
+		  
+		<div class="tile-row">
+			<div class="tile tile-bordered text-white">
+				<h2>Instructors and office hours:<h2>
+			</div>
+		
+			<div class="tile">
+				
+				 	<div class="instructor">
+             <a href="http://arsenalfc.stanford.edu/kunle">
+              <div class="instructorphoto"><img src="assets/img/kunle.jpg"></div>
+              <div class="text-white">Kunle Olukotun</div>
+	     			</a>
+					<div class="text-white">Office Hours TBA</div>
+					</div>
+		   
+					<div class="instructor">
+            <a href="https://web.stanford.edu/~perdavan/">
+              <div class="instructorphoto"><img src="assets/img/ardavan.png"></div>
+              <div class="text-white">Ardavan Pedram</div>
+            </a>
+					 <div class="text-white">Office Hours TBA</div>
+          </div>
+		   
+       <!--
+					<div class="instructor">
+	        		<a href="http://vardanp.cswp.cs.technion.ac.il">
+	        			<div class="instructorphoto"><img src="assets/img/VardanPapyan.png"></div>
+	        			<div class="text-white">Vardan Papyan</div>
+	        		</a>
+					<div class="text-white">Tue 2PM in Sequoia 208</div>
+				   </div>
+        -->
+		      </div>
+		  </div>
+		  
+		  
+	  
+		  <!-- 
+		  
+		  	<div class="tile tile-bordered col-1 text-center">
+				<h2>TA</h2>
+				<div class="instructor">
+	        		<a href="http://web.stanford.edu">
+	        			<div class="instructorphoto"><img src="assets/img/face-1.jpg"></div>
+	        			<div class="text-white">TA</div>
+	        		</a>
+				</div>
+			
+		  </div>
+		TA -->	  
+			  		  
+	  </div>
+	  
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+  <footer class="site-footer">
+	  <!--
+         {% if site.github.is_project_page %}
+           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+         {% endif %}
+	   -->
+         <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+       </footer>
+
+    </section>
+
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>
