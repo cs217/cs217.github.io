@@ -1,5 +1,5 @@
 ---
-layout: titlepage2
+layout: titlepage
 ---
 
 This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
