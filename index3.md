@@ -179,6 +179,18 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 </div>
 </div>
 
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/hadi_esmaeilzadeh.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./esmaeilzadeh_lecture">Hadi Esmaeilzadeh, UC San Diego</a> <br>
+<span class="speaker">Topic TBA</span> <br>
+<span class="speakerposition">Date TBA</span>
+</div>
+</div>
+
 ## Related Stanford Courses
 - [CS230](http://cs230.stanford.edu/syllabus.html)
 - [CS231n](http://cs231n.github.io)
