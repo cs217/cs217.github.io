@@ -170,24 +170,24 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/cliff_young.jpg">
+<img src="assets/img/hadi_esmaeilzadeh.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./young_lecture">Cliff Young, Google</a> <br>
-<span class="speaker">MLPerf</span> <br>
-<span class="speakerposition">Date TBA</span>
+<a class="talkdate" href="./esmaeilzadeh_lecture">Hadi Esmaeilzadeh, UC San Diego</a> <br>
+<span class="speaker">TABLA</span> <br>
+<span class="speakerposition">Thursday October 4, 2018</span>
 </div>
 </div>
 
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/hadi_esmaeilzadeh.jpg">
+<img src="assets/img/cliff_young.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./esmaeilzadeh_lecture">Hadi Esmaeilzadeh, UC San Diego</a> <br>
-<span class="speaker">TABLA</span> <br>
-<span class="speakerposition">October 4, 2018</span>
+<a class="talkdate" href="./young_lecture">Cliff Young, Google</a> <br>
+<span class="speaker">MLPerf</span> <br>
+<span class="speakerposition">Tuesday November 13, 2018</span>
 </div>
 </div>
 
