@@ -1,5 +1,5 @@
 <div class="abstract">   
-<strong>Title TBA</strong>
+<strong>MLPerf</strong>
 <p align="justify">Abstract coming soon.</p>  
 </div>
 

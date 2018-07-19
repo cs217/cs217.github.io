@@ -1,11 +1,11 @@
-<div class="abstract">
-<strong>TABLA</strong>
+<div class="abstract">   
+<strong>Topic TBA</strong>
 <p align="justify">Abstract coming soon.</p>  
 </div>
 
 <!-- [Readings for this lecture](readings#lecture-3) -->
 
-<!-- ![Hadi Esmaeilzadeh](/assets/img/hadi_esmaeilzadeh.jpg) -->
+<!-- ![Kian Katanforoosh](/assets/img/kian_katanforoosh.jpg) -->
 
 <p align="justify">Speaker bio coming soon.</p>
 
