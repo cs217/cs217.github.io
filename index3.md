@@ -146,18 +146,6 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/Robert_Schreiber.jpeg">
-</div>
-<div class="card">
-<a class="talkdate" href="./schreiber_lecture">Robert Schreiber, Cerebras Systems</a> <br>
-<span class="speaker">Understanding Numerical Errors</span> <br>
-<span class="speakerposition">Date TBA</span>
-</div>
-</div>
-
----
-<div class="speaker-wrap">
-<div class="speakerphoto">
 <img src="assets/img/kian_katanforoosh.jpg">
 </div>
 <div class="card">
@@ -176,6 +164,18 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
 <a class="talkdate" href="./esmaeilzadeh_lecture">Hadi Esmaeilzadeh, UC San Diego</a> <br>
 <span class="speaker">TABLA</span> <br>
 <span class="speakerposition">Thursday October 4, 2018</span>
+</div>
+</div>
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/Robert_Schreiber.jpeg">
+</div>
+<div class="card">
+<a class="talkdate" href="./schreiber_lecture">Robert Schreiber, Cerebras Systems</a> <br>
+<span class="speaker">Understanding Numerical Errors</span> <br>
+<span class="speakerposition">Thursday October 25, 2018</span>
 </div>
 </div>
 
