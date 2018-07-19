@@ -158,18 +158,6 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/Mikhail_Smelyanskiy.JPG">
-</div>
-<div class="card">
-<a class="talkdate" href="./smelyanskiy_lecture">Mikhail Smelyanskiy, Facebook</a> <br>
-<span class="speaker">AI at Facebook Datacenter Scale</span> <br>
-<span class="speakerposition">Date TBA</span>
-</div>
-</div>
-
----
-<div class="speaker-wrap">
-<div class="speakerphoto">
 <img src="assets/img/hadi_esmaeilzadeh.jpg">
 </div>
 <div class="card">
@@ -188,6 +176,18 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
 <a class="talkdate" href="./young_lecture">Cliff Young, Google</a> <br>
 <span class="speaker">MLPerf</span> <br>
 <span class="speakerposition">Tuesday November 13, 2018</span>
+</div>
+</div>
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/Mikhail_Smelyanskiy.JPG">
+</div>
+<div class="card">
+<a class="talkdate" href="./smelyanskiy_lecture">Mikhail Smelyanskiy, Facebook</a> <br>
+<span class="speaker">AI at Facebook Datacenter Scale</span> <br>
+<span class="speakerposition">Thursday November 29, 2018</span>
 </div>
 </div>
 
