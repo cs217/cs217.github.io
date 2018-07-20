@@ -137,9 +137,9 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
 <img src="assets/img/kian_katanforoosh.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./katanforoosh_lecture">Kian Katanforoosh, deeplearning.ai</a> <br>
-<span class="speaker">Topic TBA</span> <br>
-<span class="speakerposition">Date TBA</span>
+<a class="talkdate" href="./katanforoosh_lecture">Kian Katanforoosh, deeplearning.ai founding member, Stanford Lecturer</a> <br>
+<span class="speaker">From Machine Learning to Deep Learning: a computational transition</span> <br>
+<span class="speakerposition">Thursday September 27, 2018</span>
 </div>
 </div>
 

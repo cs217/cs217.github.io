@@ -1,5 +1,5 @@
 <div class="abstract">   
-<strong>Topic TBA</strong>
+<strong>From Machine Learning to Deep Learning: a computational transition</strong>
 <p align="justify">Abstract coming soon.</p>  
 </div>
 
