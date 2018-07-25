@@ -1,5 +1,5 @@
 ---
-layout: titlepage3
+layout: titlepage4
 ---
 
 This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
