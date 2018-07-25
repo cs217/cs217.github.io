@@ -1,8 +1,8 @@
 ---
-layout: titlepage
+layout: titlepage3
 ---
 
-This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
+This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
 
 ## Teaching Assistant
 
@@ -134,12 +134,24 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/Boris_Ginsburg-200x200.jpg">
+<img src="assets/img/kian_katanforoosh.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./ginsburg_lecture">Boris Ginsburg, NVIDIA</a> <br>
-<span class="speaker">Low Precision Training of DNNs</span> <br>
-<span class="speakerposition">Date TBA</span>
+<a class="talkdate" href="./katanforoosh_lecture">Kian Katanforoosh, deeplearning.ai and Stanford University</a> <br>
+<span class="speaker">From Machine Learning to Deep Learning: a computational transition</span> <br>
+<span class="speakerposition">Thursday September 27, 2018</span>
+</div>
+</div>
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/hadi_esmaeilzadeh.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="./esmaeilzadeh_lecture">Hadi Esmaeilzadeh, UC San Diego</a> <br>
+<span class="speaker">TABLA</span> <br>
+<span class="speakerposition">Thursday October 4, 2018</span>
 </div>
 </div>
 
@@ -151,19 +163,19 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 <div class="card">
 <a class="talkdate" href="./schreiber_lecture">Robert Schreiber, Cerebras Systems</a> <br>
 <span class="speaker">Understanding Numerical Errors</span> <br>
-<span class="speakerposition">Date TBA</span>
+<span class="speakerposition">Thursday October 25, 2018</span>
 </div>
 </div>
 
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/Mikhail_Smelyanskiy.JPG">
+<img src="assets/img/Boris_Ginsburg-200x200.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="./smelyanskiy_lecture">Mikhail Smelyanskiy, Facebook</a> <br>
-<span class="speaker">AI at Facebook Datacenter Scale</span> <br>
-<span class="speakerposition">Date TBA</span>
+<a class="talkdate" href="./ginsburg_lecture">Boris Ginsburg, NVIDIA</a> <br>
+<span class="speaker">Low Precision Training of DNNs</span> <br>
+<span class="speakerposition">Thursday November 1, 2018</span>
 </div>
 </div>
 
@@ -175,7 +187,19 @@ This class meets TBA at [Gates TBD](https://campus-map.stanford.edu/?srch=Gates)
 <div class="card">
 <a class="talkdate" href="./young_lecture">Cliff Young, Google</a> <br>
 <span class="speaker">MLPerf</span> <br>
-<span class="speakerposition">Date TBA</span>
+<span class="speakerposition">Tuesday November 13, 2018</span>
+</div>
+</div>
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/Mikhail_Smelyanskiy.JPG">
+</div>
+<div class="card">
+<a class="talkdate" href="./smelyanskiy_lecture">Mikhail Smelyanskiy, Facebook</a> <br>
+<span class="speaker">AI at Facebook Datacenter Scale</span> <br>
+<span class="speakerposition">Thursday November 29, 2018</span>
 </div>
 </div>
 
