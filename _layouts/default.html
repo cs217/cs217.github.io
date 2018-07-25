@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122866535-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122866535-1');
+</script>  
     <meta charset="UTF-8">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
     <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
