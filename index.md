@@ -71,7 +71,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
   <tr>
     <td class="tg-cpu2">6</td>
     <td class="tg-cpu2">Neural networks: MLPs and CNNs Inference</td>
-    <td class="tg-cpu2"><span style="color:rgb(254, 0, 0)">IEEE proceeding</span><br><span style="color:rgb(254, 0, 0)">Brooks’s book (Selected Chapters)</span></td>
+    <td class="tg-cpu2"><a href="http://www.rle.mit.edu/eems/wp-content/uploads/2017/11/2017_pieee_dnn.pdf">Efficient Processing of DNNs</a><br><a href="https://www.morganclaypool.com/doi/abs/10.2200/S00783ED1V01Y201706CAC041">Brooks' Book, Chapters TBA</a></td>
     <td class="tg-cpu2">CNN Inference<br>Accelerators</td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
   <tr>
     <td class="tg-cpu2">9</td>
     <td class="tg-cpu2">Training: SGD, back propagation, statistical efficiency, batch size</td>
-    <td class="tg-cpu2"><span style="color:rgb(254, 0, 0)">NIPS workshop last year</span><br><a href="https://supercomputersfordl2017.github.io/Presentations/SimonKnowlesGraphCore.pdf">Graphcore</a></td>
+    <td class="tg-cpu2"><a href="https://supercomputersfordl2017.github.io/">Supercomputer Scale</a><br><a href="https://supercomputersfordl2017.github.io/Presentations/SimonKnowlesGraphCore.pdf">Graphcore</a></td>
     <td class="tg-cpu2">Training<br>Accelerators</td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
   <tr>
     <td class="tg-cpu2">12</td>
     <td class="tg-cpu2">Training in Distributed and Parallel systems:  <br>Hogwild!, asynchrony and hardware efficiency</td>
-    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a><br><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf">Large Scale Distributed Deep Networks</a><br><span style="color:rgb(254, 0, 0)">Obstinate cache?</span></td>
+    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a><br><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf">Large Scale Distributed Deep Networks</a></td>
     <td class="tg-cpu2"></td>
   </tr>
   <tr>
