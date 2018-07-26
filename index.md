@@ -89,7 +89,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
   <tr>
     <td class="tg-cpu2">9</td>
     <td class="tg-cpu2">Training: SGD, back propagation, statistical efficiency, batch size</td>
-    <td class="tg-cpu2"><a href="https://supercomputersfordl2017.github.io/">Supercomputer Scale</a><br><a href="https://supercomputersfordl2017.github.io/Presentations/SimonKnowlesGraphCore.pdf">Graphcore</a></td>
+    <td class="tg-cpu2"><a href="https://supercomputersfordl2017.github.io/">Supercomputer Scale</a><br><a href="https://arxiv.org/abs/1804.07612">Graphcore</a></td>
     <td class="tg-cpu2">Training<br>Accelerators</td>
   </tr>
   <tr>
