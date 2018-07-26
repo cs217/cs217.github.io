@@ -158,7 +158,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/YuHsin_Chen.jpg">
+<img src="assets/img/YuHsin_Chen.png">
 </div>
 <div class="card">
 <a class="talkdate" href="./chen_lecture">Yu-Hsin Chen, MIT</a> <br>

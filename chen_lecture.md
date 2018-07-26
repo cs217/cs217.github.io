@@ -5,7 +5,7 @@
 
 <!-- [Readings for this lecture](readings#lecture-3) -->
 
-<!-- ![Yu-Hsin Chen](/assets/img/YuHsin_Chen.jpg) -->
+<!-- ![Yu-Hsin Chen](/assets/img/YuHsin_Chen.png) -->
 
 <p align="justify">Speaker bio coming soon.</p>
 
