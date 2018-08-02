@@ -2,7 +2,7 @@
 layout: titlepage3
 ---
 
-This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates TBD](https://campus-map.stanford.edu/?srch=Gates).
+This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Dinkelspiel Auditorium, Room 10](https://campus-map.stanford.edu/?srch=DINKG10).
 
 ## Teaching Assistant
 
