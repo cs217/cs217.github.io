@@ -16,6 +16,17 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Dinkelspiel Audi
 </div>
 </div>
 
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/Nathan.png">
+</div>
+<div class="card">
+<a class="talkdate" href="https://www.linkedin.com/in/nzhang32">Nathan Zhang</a> <br>
+<span class="speaker">Office Hours TBA</span> <br>
+</div>
+</div>
+
 ## Schedule
 
 <style type="text/css">
@@ -198,7 +209,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Dinkelspiel Audi
 </div>
 <div class="card">
 <a class="talkdate" href="./chung_lecture">Eric Chung, Microsoft Research</a> <br>
-<span class="speaker">Topic TBA</span> <br>
+<span class="speaker">Real-Time AI at Cloud Scale with Project Brainwave</span> <br>
 <span class="speakerposition">Thursday November 8, 2018</span>
 </div>
 </div>

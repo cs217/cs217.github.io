@@ -1,5 +1,5 @@
 <div class="abstract">   
-<strong>Topic TBA</strong>
+<strong>Real-Time AI at Cloud Scale with Project Brainwave</strong>
 <p align="justify">Abstract coming soon.</p>  
 </div>
 
