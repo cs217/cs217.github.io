@@ -194,6 +194,18 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Dinkelspiel Audi
 ---
 <div class="speaker-wrap">
 <div class="speakerphoto">
+<img src="assets/img/Eric_Chung.png">
+</div>
+<div class="card">
+<a class="talkdate" href="./chung_lecture">Eric Chung, Microsoft Research</a> <br>
+<span class="speaker">Topic TBA</span> <br>
+<span class="speakerposition">Thursday November 8, 2018</span>
+</div>
+</div>
+
+---
+<div class="speaker-wrap">
+<div class="speakerphoto">
 <img src="assets/img/cliff_young.jpg">
 </div>
 <div class="card">
