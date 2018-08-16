@@ -8,17 +8,6 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Dinkelspiel Audi
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/stefan.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="https://cs.stanford.edu/people/shadjis/">Stefan Hadjis</a> <br>
-<span class="speaker">Office Hours TBA</span> <br>
-</div>
-</div>
-
----
-<div class="speaker-wrap">
-<div class="speakerphoto">
 <img src="assets/img/Nathan.png">
 </div>
 <div class="card">
