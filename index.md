@@ -2,7 +2,7 @@
 layout: titlepage3
 ---
 
-This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Dinkelspiel Auditorium, Room 10](https://campus-map.stanford.edu/?srch=DINKG10).
+This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 101](https://campus-map.stanford.edu/?srch=Packard%20Electrical%20Engineering).
 
 ## Teaching Assistant
 
@@ -11,7 +11,17 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Dinkelspiel Audi
 <img src="assets/img/Nathan.png">
 </div>
 <div class="card">
-<a class="talkdate" href="https://www.linkedin.com/in/nzhang32">Nathan Zhang</a> <br>
+<a class="talkdate" href="https://people.stanford.edu/stanfurd/">Nathan Zhang</a> <br>
+<span class="speaker">Office Hours TBA</span> <br>
+</div>
+</div>
+
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/Nandita.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="http://web.stanford.edu/~nanbhas/">Nandita Bhaskhar</a> <br>
 <span class="speaker">Office Hours TBA</span> <br>
 </div>
 </div>
