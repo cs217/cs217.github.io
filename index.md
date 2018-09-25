@@ -38,11 +38,9 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
   font-family:Arial, sans-serif;
   font-size:14px;
   padding:10px 5px;
-  border-style:solid;
-  border-width:1px;
   overflow:hidden;
   word-break:normal;
-  border-color:black;
+  border: 1px solid black;
 }
 
 .tg th {
@@ -50,27 +48,17 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
   font-size:14px;
   font-weight:normal;
   padding:10px 5px;
-  border-style:solid;
-  border-width:1px;
   overflow:hidden;
   word-break:normal;
-  border-color:black;
-}
-
-.tg .tg-cpu2{
-  border-color:#000000;
-  vertical-align:top;
 }
 
 .tg td {
   font-weight:bold;
-  border-color:#000000;
   text-align:center;
   vertical-align:top;
 }
 
 .tg td:last-child {
-  border-color:#000000;
   vertical-align:top;
 }
 
