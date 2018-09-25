@@ -29,115 +29,418 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 ## Schedule
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-cpu2{border-color:#000000;vertical-align:top}
-.tg .tg-mqa1{font-weight:bold;border-color:#000000;text-align:center;vertical-align:top}
+.tg  {
+  border-collapse:collapse;
+  border-spacing:0;
+}
+
+.tg td {
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  padding:10px 5px;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:black;
+}
+
+.tg th {
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  font-weight:normal;
+  padding:10px 5px;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:black;
+}
+
+.tg .tg-cpu2{
+  border-color:#000000;
+  vertical-align:top;
+}
+
+.tg td {
+  font-weight:bold;
+  border-color:#000000;
+  text-align:center;
+  vertical-align:top;
+}
+
+.tg td:last-child {
+  border-color:#000000;
+  vertical-align:top;
+}
+
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 953px">
+
+<table class="tg" style="undefined; table-layout: fixed; width:1000px">
 <colgroup>
-<col style="width: 79px">
-<col style="width: 443px">
-<col style="width: 288px">
-<col style="width: 143px">
+<col style="width: 80px">
+<col style="width: 80px">
+<col style="width: 410px">
+<col style="width: 290px">
+<col style="width: 140px">
 </colgroup>
-  <tr>
-    <th class="tg-mqa1">Lecture</th>
-    <th class="tg-mqa1">Topic</th>
-    <th class="tg-mqa1">Reading</th>
-    <th class="tg-mqa1">Spatial Assignment</th>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">1</td>
-    <td class="tg-cpu2">Introduction, role of hardware accelerators in post Dennard<br>&nbsp;&nbsp;and Moore era</td>
-    <td class="tg-cpu2"><a href="https://ieeexplore.ieee.org/document/6241647/">Is Dark silicon useful?</a><br>Hennessy Patterson Chapter 7.1-7.2</td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">2</td>
-    <td class="tg-cpu2">Classical ML algorithms: Regression, SVMs (What is the<br>&nbsp;&nbsp;building block?)</td>
-    <td class="tg-cpu2"><a href="https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf">TABLA</a></td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">3</td>
-    <td class="tg-cpu2">Linear algebra fundamentals and accelerating linear algebra<br>BLAS operations<br>20th century techniques: Systolic arrays and MIMDs, CGRAs</td>
-    <td class="tg-cpu2"><a href="http://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf">Why Systolic Architectures?</a><br><a href="https://www.cs.utexas.edu/users/pingali/CS378/2008sp/papers/gotoPaper.pdf">Anatomy of high performance GEMM</a></td>
-    <td class="tg-cpu2">Linear Algebra<br>Accelerators</td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">4</td>
-    <td class="tg-cpu2">Evaluating Performance, Energy efficiency, Parallelism, Locality,<br>  Memory hierarchy, Roofline model </td>
-    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1602.04183">Dark Memory</a></td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">5</td>
-    <td class="tg-cpu2">Real-World Architectures: Putting it into practice<br>Accelerating GEMM:<br>Custom, GPU,  TPU1 architectures and their GEMM performance</td>
-    <td class="tg-cpu2"><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a><br><a href="https://ieeexplore.ieee.org/document/6212466/">Codesign Tradeoffs</a><br><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">NVIDIA Tesla V100</a></td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">6</td>
-    <td class="tg-cpu2">Neural networks: MLPs and CNNs Inference</td>
-    <td class="tg-cpu2"><a href="http://www.rle.mit.edu/eems/wp-content/uploads/2017/11/2017_pieee_dnn.pdf">Efficient Processing of DNNs</a><br><a href="https://www.morganclaypool.com/doi/abs/10.2200/S00783ED1V01Y201706CAC041">Brooks' Book, Chapters TBA</a></td>
-    <td class="tg-cpu2">CNN Inference<br>Accelerators</td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">7</td>
-    <td class="tg-cpu2"><span style="font-weight:bold">(2 Lectures) </span>Accelerating Inference for CNNs:<br>Blocking and Parallelism in practice<br>DianNao, Eyeriss, TPU1<br></td>
-    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1606.04209">Systematic Approach to Blocking</a><br><a href="https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf">Eyeriss</a><br>Google TPU (see lecture 5)</td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">8</td>
-    <td class="tg-cpu2">Modeling neural networks with Spatial, Analyzing <br>  performance and energy with Spatial</td>
-    <td class="tg-cpu2"><a href="http://arsenalfc.stanford.edu/papers/spatial18.pdf">Spatial</a><br><span style="color:rgb(254, 0, 0)">One related work</span></td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">9</td>
-    <td class="tg-cpu2">Training: SGD, back propagation, statistical efficiency, batch size</td>
-    <td class="tg-cpu2"><a href="https://supercomputersfordl2017.github.io/">Supercomputer Scale</a><br><a href="https://arxiv.org/abs/1804.07612">Graphcore</a></td>
-    <td class="tg-cpu2">Training<br>Accelerators</td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">10</td>
-    <td class="tg-cpu2">Resilience of DNNs: Sparsity and Low Precision Networks</td>
-    <td class="tg-cpu2">Some theory paper<br><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a><br><a href="https://arxiv.org/pdf/1711.02213.pdf">Flexpoint of Nervana</a><br>Boris Ginsburg: <a href="https://arxiv.org/abs/1708.03888">paper</a>, <a href="http://on-demand.gputechconf.com/gtc/2017/presentation/s7218-training-with-mixed-precision-boris-ginsburg.pdf">presentation</a><br>LSTM Block Compression by Baidu?</td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">11</td>
-    <td class="tg-cpu2">Low precision training</td>
-    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1803.03383">HALP</a><br><span style="color:rgb(254, 0, 0)">Ternary or binary networks</span><br>See Boris Ginsburg's work (lecture 10)</td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">12</td>
-    <td class="tg-cpu2">Training in Distributed and Parallel systems:  <br>Hogwild!, asynchrony and hardware efficiency</td>
-    <td class="tg-cpu2"><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a><br><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf">Large Scale Distributed Deep Networks</a></td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">13</td>
-    <td class="tg-cpu2">FPGAs and CGRAs: Catapult, Brainwave, Plasticine</td>
-    <td class="tg-cpu2"><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf">Catapult</a><br><a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/03/mi0218_Chung-2018Mar25.pdf">Brainwave</a><br><a href="http://dawn.cs.stanford.edu/pubs/plasticine-isca2017.pdf">Plasticine</a></td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">14</td>
-    <td class="tg-cpu2">ML benchmarks: DAWNbench, MLPerf</td>
-    <td class="tg-cpu2"><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a><br><a href="https://mlperf.org/">MLPerf</a></td>
-    <td class="tg-cpu2"></td>
-  </tr>
-  <tr>
-    <td class="tg-cpu2">15</td>
-    <td class="tg-cpu2">Project presentations</td>
-    <td class="tg-cpu2"></td>
-    <td class="tg-cpu2"></td>
-  </tr>
+<tbody>
+<tr>
+<th>
+<p><strong>Lecture</strong></p>
+</th>
+<th>
+<p><strong>Date</strong></p>
+</th>
+<th>
+<p><strong>Topic</strong></p>
+</th>
+<th>
+<p><strong>Reading</strong></p>
+</th>
+<th>
+<p><strong>Assignment</strong></p>
+</th>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9/25/18</p>
+</td>
+<td>
+<p>Introduction, Software 2.0</p>
+<p>Role of hardware accelerators in post Dennard&nbsp;and Moore era</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>9/27/18</p>
+</td>
+<td>
+<p>Guest Lecture: Kian Katan</p>
+<p>Classical ML algorithms: Regression, SVMs</p>
+</td>
+<td>
+<p><a href="https://ieeexplore.ieee.org/document/6241647/"><u>Is Dark silicon useful?</u></a><br /> Hennessy Patterson Chapter 7.1-7.2</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>10/2/18</p>
+</td>
+<td>
+<p>Linear algebra fundamentals and accelerating linear algebra. BLAS operations<br /> 20th century techniques: Systolic arrays and MIMDs, CGRAs</p>
+</td>
+<td>
+<p><a href="http://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf"><u>Why Systolic Architectures?</u></a><br /><a href="https://www.cs.utexas.edu/users/pingali/CS378/2008sp/papers/gotoPaper.pdf"><u>Anatomy of high performance GEMM</u></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>10/4/18</p>
+</td>
+<td>
+<p>Guest Lecture: Hadi Esmaeilzadeh</p>
+<p>Tabla &amp; Cosmic</p>
+</td>
+<td>
+<p><a href="https://www.cc.gatech.edu/~hadi/doc/paper/2015-tr-tabla.pdf"><u>TABLA</u></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10/9/18</p>
+</td>
+<td>
+<p>Linear Algebra Cont.</p>
+<p>Evaluating Performance, Energy efficiency, Parallelism, Locality, Memory hierarchy, Roofline model</p>
+<p>Real-World Architectures: Putting it into practice<br /> Accelerating GEMM:<br /> Custom, GPU, TPU1 architectures and their GEMM performance</p>
+</td>
+<td>
+<p><a href="https://arxiv.org/abs/1602.04183"><u>Dark Memory</u></a></p>
+<p>The roofline model paper</p>
+<p><a href="https://arxiv.org/pdf/1704.04760.pdf"><u>Google TPU</u></a><br /><a href="https://ieeexplore.ieee.org/document/6212466/"><u>Codesign Tradeoffs</u></a><br /><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf"><u>NVIDIA Tesla V100</u></a></p>
+</td>
+<td>
+<p>Linear Algebra<br /> Accelerators</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>10/11/18</p>
+</td>
+<td>
+<p>David Koeplinger &amp; Tian: Modeling neural networks with Spatial, Analyzing&nbsp;<br /> performance and energy with Spatial</p>
+</td>
+<td>
+<p><a href="http://arsenalfc.stanford.edu/papers/spatial18.pdf"><u>Spatial</u></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>10/16/18</p>
+</td>
+<td>
+<p>Neural networks: MLPs and CNNs Inference</p>
+<p>Accelerating Inference for CNNs</p>
+<p>Blocking and parallelism</p>
+<p>DianNao, TPUs</p>
+</td>
+<td>
+<p><a href="http://www.rle.mit.edu/eems/wp-content/uploads/2017/11/2017_pieee_dnn.pdf"><u>Efficient Processing of DNNs</u></a><br /><a href="https://www.morganclaypool.com/doi/abs/10.2200/S00783ED1V01Y201706CAC041"><u>Brooks' Book, Chapters TBA</u></a></p>
+<p><a href="https://arxiv.org/abs/1606.04209"><u>Systematic Approach to Blocking</u></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>10/18/18</p>
+</td>
+<td>
+<p>Guest Lecture: Yu-Hsin</p>
+<p>CNN Inference</p>
+</td>
+<td>
+<p><a href="https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf"><u>Eyeriss</u></a><br /> Google TPU (see lecture 5)</p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>10/23/18</p>
+</td>
+<td>
+<p>Training 1</p>
+</td>
+<td>
+<p>TBD</p>
+</td>
+<td>
+<p>CNN Inference<br /> Accelerators</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>10/25/18</p>
+</td>
+<td>
+<p>Guest Lecture: Robert Schreiber</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>10/30/18</p>
+</td>
+<td>
+<p>Training 2: SGD, back propagation, statistical efficiency, batch size</p>
+</td>
+<td>
+<p><a href="https://supercomputersfordl2017.github.io/"><u>Supercomputer Scale</u></a><br /><a href="https://arxiv.org/abs/1804.07612"><u>Graphcore</u></a>, <a href="https://arxiv.org/pdf/1602.01528.pdf"><u>EIE</u></a><br /><a href="https://arxiv.org/pdf/1711.02213.pdf"><u>Flexpoint of Nervana</u></a></p>
+<p>LSTM Block Compression Baidu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>11/1/18</p>
+</td>
+<td>
+<p>Guest Lecture: Boris Ginsburg</p>
+<p>Details of Training and Parameters</p>
+<p>Resilience of DNNs: Sparsity and Low Precision Networks</p>
+</td>
+<td>
+<p>Boris Ginsburg:</p>
+<p>&nbsp;<a href="https://arxiv.org/abs/1708.03888"><u>paper</u></a>,&nbsp;<a href="http://on-demand.gputechconf.com/gtc/2017/presentation/s7218-training-with-mixed-precision-boris-ginsburg.pdf"><u>presentation</u></a><a href="https://arxiv.org/abs/1803.03383"><u>HALP</u></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>11/5/18</p>
+</td>
+<td>
+<p>Training in Distributed and Parallel systems: Hogwild!, asynchrony and hardware efficiency&nbsp;</p>
+</td>
+<td>
+<p><a href="https://arxiv.org/abs/1712.01887"><u>Deep Gradient compression</u></a><br /><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf"><u>Hogwild!</u></a><br /><a href="https://static.googleusercontent.com/media/research.google.com/en/archive/large_deep_networks_nips2012.pdf"><u>Large Scale Distributed Deep Networks</u></a></p>
+</td>
+<td>
+<p>Training<br /> Accelerators/ Course Project</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>11/8/18</p>
+</td>
+<td>
+<p>Guest Lecture: Eric Chung Catapult, Brainwave,</p>
+</td>
+<td>
+<p><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf"><u>Catapult</u></a><br /><a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/03/mi0218_Chung-2018Mar25.pdf"><u>Brainwave</u></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>11/13/18</p>
+</td>
+<td>
+<p>Guest Lecture: Cliff Young:</p>
+<p>ML benchmarks MLPerf</p>
+</td>
+<td>
+<p><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf"><u>DawnBench</u></a><br /><a href="https://mlperf.org/"><u>MLPerf</u></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>11/15/18</p>
+</td>
+<td>
+<p>SPATIAL 2 for 3<sup>rd</sup> Assignment/ Course Project</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>11/20/18</p>
+</td>
+<td>
+<p>Project Related</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>11/22/18</p>
+</td>
+<td>
+<p>Thanksgiving</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>11/27/18</p>
+</td>
+<td>
+<p>FPGAs and CGRAs, Plasticine</p>
+</td>
+<td>
+<p><a href="http://dawn.cs.stanford.edu/pubs/plasticine-isca2017.pdf"><u>Plasticine</u></a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>11/29/18</p>
+</td>
+<td>
+<p>Guest Lecture: Mikhail Smelyanskiv</p>
+<p>AI at Facebook Datacenter Scale&nbsp;</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>12/4/18</p>
+</td>
+<td>
+<p>Class Presentations</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>12/6/18</p>
+</td>
+<td>
+<p>Class Presentations</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+
 </table>
 
 ## [](#Lectures) Guest Lectures
@@ -153,7 +456,8 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 </div>
 
----
+* * *
+
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/hadi_esmaeilzadeh.jpg">
@@ -165,7 +469,8 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 </div>
 
----
+* * *
+
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/YuHsin_Chen.png">
@@ -177,7 +482,8 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 </div>
 
----
+* * *
+
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/Robert_Schreiber.jpeg">
@@ -189,7 +495,8 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 </div>
 
----
+* * *
+
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/Boris_Ginsburg-200x200.jpg">
@@ -201,7 +508,8 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 </div>
 
----
+* * *
+
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/Eric_Chung.png">
@@ -213,7 +521,8 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 </div>
 
----
+* * *
+
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/cliff_young.jpg">
@@ -225,7 +534,8 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 </div>
 
----
+* * *
+
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/Mikhail_Smelyanskiy.JPG">
@@ -238,22 +548,22 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 
 ## Related Stanford Courses
-- [CS230](http://cs230.stanford.edu/syllabus.html)
-- [CS231n](http://cs231n.github.io)
-- [STATS 385](https://stats385.github.io/)
+
+-   [CS230](http://cs230.stanford.edu/syllabus.html)
+-   [CS231n](http://cs231n.github.io)
+-   [STATS 385](https://stats385.github.io/)
 
 ## [Reading list and other resources](readings)
 
-## [Lecture slides](lecture_slides)    
+## [Lecture slides](lecture_slides)
 
-## [Basic information about deep learning](basicinfo)    
+## [Basic information about deep learning](basicinfo)
 
-## [Cheat sheet -- things that everyone needs to know](cheat_sheet)    
+## [Cheat sheet -- things that everyone needs to know](cheat_sheet)
 
 ## [Blogs](blogs)
 
 ## [Grading](grading)
-
 
 <!--
  If you are a guest speaker for this course, please read [travel section](#plan-your-visit) to plan your visit.   
