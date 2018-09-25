@@ -266,6 +266,8 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <p><a href="https://supercomputersfordl2017.github.io/"><u>Supercomputer Scale</u></a><br /><a href="https://arxiv.org/abs/1804.07612"><u>Graphcore</u></a>, <a href="https://arxiv.org/pdf/1602.01528.pdf"><u>EIE</u></a><br /><a href="https://arxiv.org/pdf/1711.02213.pdf"><u>Flexpoint of Nervana</u></a></p>
 <p>LSTM Block Compression Baidu</p>
 </td>
+<td>
+</td>
 </tr>
 <tr>
 <td>
