@@ -168,7 +168,9 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <p>David Koeplinger &amp; Tian: Modeling neural networks with Spatial, Analyzing&nbsp;<br /> performance and energy with Spatial</p>
 </td>
 <td width="198">
-<p><u><a href="http://arsenalfc.stanford.edu/papers/spatial18.pdf">Spatial</a></u><br /> One related work</p>
+<p><u><a href="https://stanford-ppl.github.io/website/papers/pldi18_koeplinger.pdf">Spatial</a></u><br />
+<u><a href="https://dl.acm.org/citation.cfm?id=2665689"> Aladdin </a></u>
+</p>
 </td>
 <td width="96">
 <p></p>
@@ -187,7 +189,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <p>Real-World Architectures: Putting it into practice<br /> Accelerating GEMM:<br /> Custom, GPU, TPU1 architectures and their GEMM performance</p>
 </td>
 <td width="198">
-<p>The roofline model paper</p>
+<p><u><a href="https://people.eecs.berkeley.edu/~kubitron/cs252/handouts/papers/RooflineVyNoYellow.pdf">Roofline Model </a> </u></p>
 <p><u><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a></u><br /> <u><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">NVIDIA Tesla V100</a></u></p>
 </td>
 <td width="96">
@@ -208,11 +210,11 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <p>DianNao, TPUs</p>
 </td>
 <td width="198">
-<p><u><a href="http://www.rle.mit.edu/eems/wp-content/uploads/2017/11/2017_pieee_dnn.pdf">Efficient Processing of DNNs</a></u><br /> <u><a href="https://www.morganclaypool.com/doi/abs/10.2200/S00783ED1V01Y201706CAC041">Brooks' Book, Chapters TBA</a></u></p>
+<p><u><a href="http://www.rle.mit.edu/eems/wp-content/uploads/2017/11/2017_pieee_dnn.pdf">Efficient Processing of DNNs</a></u><br /></p>
 <p><u><a href="https://arxiv.org/abs/1606.04209">Systematic Approach to Blocking</a></u></p>
 </td>
 <td width="96">
-<p>Ardavan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -227,7 +229,10 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <p>CNN Inference</p>
 </td>
 <td width="198">
-<p><u><a href="https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf">Eyeriss</a></u><br /> Google TPU (see lecture 5)</p>
+<p><u><a href="https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf">Eyeriss</a></u><br /> Google TPU (see lecture 5)
+<br />
+<u><a href="https://www.morganclaypool.com/doi/abs/10.2200/S00783ED1V01Y201706CAC041">Brooks' Book, Chapter 5</a></u>
+</p>
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -245,7 +250,9 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <p>&nbsp;</p>
 </td>
 <td width="198">
-<p>&nbsp;</p>
+<p> <u><a href="https://arxiv.org/pdf/1809.10170.pdf">
+High Performance Zero-Memory Overhead Direct Convolutions
+</a></u> <br/> <u> <a href="https://arxiv.org/abs/1509.09308">Fast algorithms for convolution </a> </u> </p>
 </td>
 <td width="96">
 <p>CNN Inference<br /> Accelerators</p>
@@ -286,7 +293,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </td>
 <td width="96">
 <p></p>
-<p>Ardavan</p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -327,7 +334,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <td width="96">
 <p>Training<br /> Accelerators</p>
 <p>&nbsp;</p>
-<p>Ardavan&rsquo;s Hot chips</p>
+<p></p>
 </td>
 </tr>
 <tr>
