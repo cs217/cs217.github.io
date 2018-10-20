@@ -246,7 +246,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <p>10/23/2018</p>
 </td>
 <td width="294">
-<p>CNN Inference on FPGA</p>
+<p>Accelerating CNN cont.</p>
 <p>&nbsp;</p>
 </td>
 <td width="198">
