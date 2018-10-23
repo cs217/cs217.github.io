@@ -288,7 +288,7 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>Training 1: SGD, back propagation, statistical efficiency, batch size</p>
 </td>
 <td width="198">
-<p><u><a href="https://supercomputersfordl2017.github.io/">Supercomputer Scale</a></u><br /> <u><a href="https://arxiv.org/abs/1804.07612">Graphcore</a></u>, <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u><br /> <u><a href="https://arxiv.org/pdf/1711.02213.pdf">Flexpoint of Nervana</a></u></p>
+<p><u><a href="https://supercomputersfordl2017.github.io/">Supercomputer Scale</a></u><br /> <u><a href="https://arxiv.org/abs/1804.07612">Graphcore</a></u></p>
 <p>LSTM Block Compression Baidu?</p>
 </td>
 <td width="96">
