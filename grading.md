@@ -6,20 +6,14 @@ layout: default
 
 The grade in this course will be based on four factors:
 
-#### Two problem sets: 20/100
+#### Reading Assignments: 30%
 
-Details coming soon.
+#### Programming assignments: 35%
 
-#### Programming assignments: 20/100
+Programming assignments using Spatial to analyze DNN algorithms and architectures for energy and performance.
 
-Programming assignments using TensorFlow/PyToch and Spatial to analyze DNN algorithms and architectures for energy and performance.
+#### Design Project: 35%
 
-#### Midterm: 30/100
-
-Details coming soon.
-
-#### Design Project: 30/100
-
-Design project using Spatial to implement and analyze an accelerator for a DNN.
+Design project using Spatial to implement and analyze an accelerator.
 
 [back](./)
