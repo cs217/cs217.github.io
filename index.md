@@ -328,7 +328,7 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>11/5/2018</p>
 </td>
 <td width="294">
-<p>Miscellaneous Training, Low Precision, and Sparsity</p>
+<p>Scaling Training</p>
 </td>
 <td width="198">
   <u><a href="https://arxiv.org/abs/1803.03383.pdf">HALP</a></u><br/>
