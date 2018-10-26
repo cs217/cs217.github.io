@@ -255,8 +255,6 @@ High Performance Zero-Memory Overhead Direct Convolutions
 </a></u> <br/> <u> <a href="https://arxiv.org/abs/1509.09308">Fast algorithms for convolution </a> </u> </p>
 </td>
 <td width="96">
-<p>CNN Inference<br /> Accelerators</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -274,7 +272,7 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>&nbsp;</p>
 </td>
 <td width="96">
-<p></p>
+<p>CNN Inference<br /> Accelerators</p>
 </td>
 </tr>
 <tr>
@@ -314,8 +312,9 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>&nbsp;</p>
 </td>
 <td width="198">
-<p>Boris Ginsburg:</p>
-<p>&nbsp;<u><a href="https://arxiv.org/abs/1708.03888">paper</a></u>,&nbsp;<u><a href="http://on-demand.gputechconf.com/gtc/2017/presentation/s7218-training-with-mixed-precision-boris-ginsburg.pdf">presentation</a></u> <u><a href="https://arxiv.org/abs/1803.03383">HALP</a></u><br /> Ternary or binary networks</p>
+  <u><a href="http://ruder.io/optimizing-gradient-descent/"> Optimizing Gradient Descent </a></u> <br />
+  <u><a href="https://arxiv.org/pdf/1708.03888.pdf"> Large Batch Training of Convolutional Networks </a> </u> <br />
+  <u><a href="https://arxiv.org/pdf/1607.04381.pdf"> Dense-Sparse-Dense </a> </u>
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -329,13 +328,14 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>11/5/2018</p>
 </td>
 <td width="294">
-<p>Training in Distributed and Parallel systems: Hogwild!, asynchrony and hardware efficiency&nbsp;</p>
+<p>Miscellaneous Training, Low Precision, and Sparsity</p>
 </td>
 <td width="198">
-<p><u><a href="https://arxiv.org/abs/1712.01887">Deep Gradient compression</a></u><br /> <u><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">Hogwild!</a></u><br /> <u><a href="https://static.googleusercontent.com/media/research.google.com/en/archive/large_deep_networks_nips2012.pdf">Large Scale Distributed Deep Networks</a></u></p>
+  <u><a href="https://arxiv.org/abs/1803.03383.pdf">HALP</a></u><br/>
+  <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u>
 </td>
 <td width="96">
-<p>Training<br /> Accelerators</p>
+GEMM + GEMV + Project Proposals due 11/6
 <p>&nbsp;</p>
 <p></p>
 </td>
@@ -372,6 +372,9 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p><u><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a></u><br /> <u><a href="https://mlperf.org/">MLPerf</a></u></p>
 </td>
 <td width="96">
+  Staff meetings with student project groups
+  
+  CNN assignment due
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -386,7 +389,9 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>SPATIAL 2 for 3<sup>rd</sup> Assignment/ Course Project</p>
 </td>
 <td width="198">
-<p>&nbsp;</p>
+<u><a href="https://arxiv.org/pdf/1804.07612.pdf">Revisiting Small Batch Training for Neural Networks </a></u><br />
+  <u><a href="https://supercomputersfordl2017.github.io/">Deep Learning At Supercomputer Scale</a></u><br />
+  <u><a href="https://arxiv.org/abs/1712.01887">Deep Gradient Compression</a></u>
 </td>
 <td width="96">
 <p>&nbsp;</p>
