@@ -307,8 +307,7 @@ High Performance Zero-Memory Overhead Direct Convolutions
 </td>
 <td width="294">
 <p>Guest Lecture: Boris Ginsburg</p>
-<p>Details of Training and Parameters</p>
-<p>Resilience of DNNs: Sparsity and Low Precision Networks</p>
+<p>Optimizing Learning</p>
 <p>&nbsp;</p>
 </td>
 <td width="198">
@@ -328,7 +327,8 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>11/5/2018</p>
 </td>
 <td width="294">
-<p>Scaling Training</p>
+<p>Guest Lecutre: Boris Ginsburg</p>
+<p>Resilience of DNN training: Sparsity and Low Precision Networks </p>
 </td>
 <td width="198">
   <u><a href="https://arxiv.org/abs/1803.03383.pdf">HALP</a></u><br/>
@@ -386,7 +386,7 @@ GEMM + GEMV + Project Proposals due 11/6
 <p>11/15/2018</p>
 </td>
 <td width="294">
-<p>SPATIAL 2 for 3<sup>rd</sup> Assignment/ Course Project</p>
+<p>Scaling Training</p>
 </td>
 <td width="198">
 <u><a href="https://arxiv.org/pdf/1804.07612.pdf">Revisiting Small Batch Training for Neural Networks </a></u><br />
