@@ -327,7 +327,7 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>11/5/2018</p>
 </td>
 <td width="294">
-<p>Guest Lecutre: Boris Ginsburg</p>
+<p>Guest Lecture: Boris Ginsburg</p>
 <p>Resilience of DNN training: Sparsity and Low Precision Networks </p>
 </td>
 <td width="198">
