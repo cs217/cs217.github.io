@@ -327,7 +327,7 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>11/5/2018</p>
 </td>
 <td width="294">
-<p>Guest Lecture: Boris Ginsburg</p>
+<p>Guest Lecture: Paulius Micikevicius</p>
 <p>Resilience of DNN training: Sparsity and Low Precision Networks </p>
 </td>
 <td width="198">
@@ -565,6 +565,19 @@ GEMM + GEMV + Project Proposals due 11/6
 <a class="talkdate" href="./ginsburg_lecture">Boris Ginsburg, NVIDIA</a> <br>
 <span class="speaker">Low Precision Training of DNNs</span> <br>
 <span class="speakerposition">Thursday November 1, 2018</span>
+</div>
+</div>
+
+* * *
+
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/paulius-200x200.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="">Paulius Micikevicius, NVIDIA</a> <br>
+<span class="speaker"></span> <br>
+<span class="speakerposition">Thursday November 5, 2018</span>
 </div>
 </div>
 
