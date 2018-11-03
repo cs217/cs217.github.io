@@ -307,7 +307,7 @@ High Performance Zero-Memory Overhead Direct Convolutions
 </td>
 <td width="294">
 <p>Guest Lecture: Boris Ginsburg</p>
-<p>Optimizing Learning</p>
+<p>Generalization and Regularization of Training</p>
 <p>&nbsp;</p>
 </td>
 <td width="198">
@@ -324,18 +324,20 @@ High Performance Zero-Memory Overhead Direct Convolutions
 <p>13</p>
 </td>
 <td width="96">
-<p>11/5/2018</p>
+<p>11/6/2018</p>
 </td>
 <td width="294">
 <p>Guest Lecture: Paulius Micikevicius</p>
-<p>Resilience of DNN training: Sparsity and Low Precision Networks </p>
+<p>Low Precision of Training</p>
 </td>
 <td width="198">
   <u><a href="https://arxiv.org/abs/1803.03383.pdf">HALP</a></u><br/>
   <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u>
 </td>
 <td width="96">
-GEMM + GEMV + Project Proposals due 11/6
+GEMV + Project Proposals due 11/6
+  <br />
+ GEMM due 11/10
 <p>&nbsp;</p>
 <p></p>
 </td>
@@ -348,7 +350,7 @@ GEMM + GEMV + Project Proposals due 11/6
 <p>11/8/2018</p>
 </td>
 <td width="294">
-<p>Guest Lecture: Eric Chung Catapult, Brainwave,</p>
+<p>Guest Lecture: Eric Chung Catapult, Brainwave</p>
 </td>
 <td width="198">
 <p><u><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf">Catapult</a></u><br /> <u><a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/03/mi0218_Chung-2018Mar25.pdf">Brainwave</a></u></p>
