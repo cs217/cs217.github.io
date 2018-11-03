@@ -375,8 +375,8 @@ GEMV + Project Proposals due 11/6
 </td>
 <td width="96">
   Staff meetings with student project groups
-  
-  CNN assignment due
+  <br />
+  CNN assignment due 11/17
 <p>&nbsp;</p>
 </td>
 </tr>
