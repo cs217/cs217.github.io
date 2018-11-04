@@ -401,13 +401,13 @@ GEMV + Project Proposals due 11/6
 </tr>
 <tr>
 <td width="36">
-<p>17</p>
+<p>-</p>
 </td>
 <td width="96">
 <p>11/20/2018</p>
 </td>
 <td width="294">
-<p>Project Related</p>
+<p>Thanksgiving</p>
 </td>
 <td width="198">
 <p>&nbsp;</p>
@@ -435,7 +435,7 @@ GEMV + Project Proposals due 11/6
 </tr>
 <tr>
 <td width="36">
-<p>18</p>
+<p>17</p>
 </td>
 <td width="96">
 <p>11/27/2018</p>
@@ -452,7 +452,7 @@ GEMV + Project Proposals due 11/6
 </tr>
 <tr>
 <td width="36">
-<p>19</p>
+<p>18</p>
 </td>
 <td width="96">
 <p>11/29/2018</p>
@@ -470,7 +470,7 @@ GEMV + Project Proposals due 11/6
 </tr>
 <tr>
 <td width="36">
-<p>20</p>
+<p>19</p>
 </td>
 <td width="96">
 <p>12/4/2018</p>
@@ -487,7 +487,7 @@ GEMV + Project Proposals due 11/6
 </tr>
 <tr>
 <td width="36">
-<p>21</p>
+<p>20</p>
 </td>
 <td width="96">
 <p>12/6/2018</p>
@@ -578,8 +578,8 @@ GEMV + Project Proposals due 11/6
 </div>
 <div class="card">
 <a class="talkdate" href="">Paulius Micikevicius, NVIDIA</a> <br>
-<span class="speaker"></span> <br>
-<span class="speakerposition">Thursday November 5, 2018</span>
+<span class="speaker">Low Precision Training</span> <br>
+<span class="speakerposition">Tuesday November 6, 2018</span>
 </div>
 </div>
 
