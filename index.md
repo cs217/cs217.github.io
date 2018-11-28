@@ -462,7 +462,9 @@ GEMV + Project Proposals due 11/6
 <p>AI at Facebook Datacenter Scale&nbsp;</p>
 </td>
 <td width="198">
-<p>&nbsp;</p>
+<p>
+  <a href="https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/">ML @ Facebook </a>, Due Friday
+  </p>
 </td>
 <td width="96">
 <p>&nbsp;</p>
