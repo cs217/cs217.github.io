@@ -478,7 +478,8 @@ GEMV + Project Proposals due 11/6
 <p>12/4/2018</p>
 </td>
 <td width="294">
-<p>TBD</p>
+<p>NIPS Keynote Preview</p>
+<p>Programming Assignment Optimization and Performance</p>
 </td>
 <td width="198">
 <p>&nbsp;</p>
@@ -495,7 +496,7 @@ GEMV + Project Proposals due 11/6
 <p>12/6/2018</p>
 </td>
 <td width="294">
-<p>TBD</p>
+<p>No Lecture</p>
 </td>
 <td width="198">
 <p>&nbsp;</p>
