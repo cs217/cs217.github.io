@@ -633,8 +633,6 @@ GEMV + Project Proposals due 11/6
 
 ## [Reading list and other resources](readings)
 
-## [Lecture slides](https://office365stanford-my.sharepoint.com/:f:/g/personal/stanfurd_stanford_edu/Enw0l9XjGY1OkPWAPs4ONkIBaCs-XkuOj6qzECWFPMzsHw?e=vfuXT1)
-
 ## [Basic information about deep learning](basicinfo)
 
 ## [Cheat sheet -- things that everyone needs to know](cheat_sheet)
