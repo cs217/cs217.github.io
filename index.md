@@ -4,7 +4,7 @@ layout: titlepage3
 
 This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 101](https://campus-map.stanford.edu/?srch=Packard%20Electrical%20Engineering).
 
-## Teaching Assistant
+## Teaching Assistants
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
@@ -25,6 +25,12 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 <span class="speaker">Office Hours TBA</span> <br>
 </div>
 </div>
+
+## Class Information
+<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg">NSF</img>
+<p>
+Funding for this research/activity was partially provided by the  National Science Foundation Division of Computing and Communication Foundations under award number <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1563113&HistoricalAwards=false">1563113</a>.
+</p>
 
 ## Schedule
 
@@ -568,7 +574,7 @@ GEMV + Project Proposals due 11/6
 </div>
 <div class="card">
 <a class="talkdate" href="./ginsburg_lecture">Boris Ginsburg, NVIDIA</a> <br>
-<span class="speaker">Low Precision Training of DNNs</span> <br>
+<span class="speaker">Large Batch Training of Convolution Networks</span> <br>
 <span class="speakerposition">Thursday November 1, 2018</span>
 </div>
 </div>
