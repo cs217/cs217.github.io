@@ -27,7 +27,7 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 
 ## Class Information
-<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg">NSF</img>
+<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg">
 <p>
 Funding for this research/activity was partially provided by the  National Science Foundation Division of Computing and Communication Foundations under award number <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1563113&HistoricalAwards=false">1563113</a>.
 </p>
