@@ -631,6 +631,8 @@ GEMV + Project Proposals due 11/6
 </div>
 </div>
 
+## [Lecture Notes](https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk?usp=sharing)
+
 ## Related Stanford Courses
 
 -   [CS230](http://cs230.stanford.edu/syllabus.html)
