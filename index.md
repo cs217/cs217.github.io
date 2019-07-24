@@ -756,7 +756,7 @@ GEMV + Project Proposals due 11/6
 
 ## [Reading list and other resources](readings)
 
-## [Lecture slides](lecture_slides)    
+## [Lecture slides](https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk?usp=sharing)    
 
 ## [Basic information about deep learning](basicinfo)    
 
