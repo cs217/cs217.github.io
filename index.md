@@ -2,7 +2,7 @@
 layout: titlepage3
 ---
 
-This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 101](https://campus-map.stanford.edu/?srch=Packard%20Electrical%20Engineering).
+This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Huang Engineering Center 18](https://campus-map.stanford.edu/?srch=Huang+Engineering+Center+18).
 
 ## Teaching Assistants
 
@@ -669,7 +669,7 @@ TBD
 </div>
 </div>
 
-## [Lecture Notes](https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk?usp=sharing)
+## [Lecture Notes (Fall 2018)](https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk?usp=sharing)
 
 ## Related Stanford Courses
 
