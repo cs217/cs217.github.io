@@ -16,16 +16,6 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Packard, Room 10
 </div>
 </div>
 
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/Nandita.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="http://web.stanford.edu/~nanbhas/">Nandita Bhaskhar</a> <br>
-<span class="speaker">Office Hours TBA</span> <br>
-</div>
-</div>
-
 ## Class Information
 <img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg">
 <p>
