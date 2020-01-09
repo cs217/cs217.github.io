@@ -431,7 +431,7 @@ GEMV + Project Proposals due 11/6
   , TBD
 </td>
 <td width="96">
-<p></p>
+<p> Midterm</p>
 </td>
 </tr>
 
