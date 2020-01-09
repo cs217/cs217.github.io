@@ -523,7 +523,7 @@ TBD
 <div class="card">
 <a class="talkdate" href="katanforoosh_lecture">Kian Katanforoosh, deeplearning.ai and Stanford University</a> <br>
 <span class="speaker">From Machine Learning to Deep Learning: a computational transition</span> <br>
-<span class="speakerposition">Thursday September 27, 2018</span>
+<span class="speakerposition">Thursday January 9, 2020</span>
 </div>
 </div>
 
