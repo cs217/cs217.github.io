@@ -136,7 +136,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <td width="198">
 
 <p><u><a href="http://www.rle.mit.edu/eems/wp-content/uploads/2017/11/2017_pieee_dnn.pdf">Efficient Processing of DNNs</a></u><br></p>
-<u><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">NVIDIA Tesla V100</a></u></p>
+<p><u><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">NVIDIA Tesla V100</a></u></p>
 
 </td>
 <td width="96">
