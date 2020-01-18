@@ -130,7 +130,6 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>1/21/2020</p>
 </td>
 <td width="294">
-<p>Evaluating Performance, Energy efficiency, Parallelism, Locality,<br> Memory hierarchy, Roofline model</p>
 <p>MLPs and CNNs Inference</p>
 </td>
 <td width="198">
@@ -151,6 +150,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>1/23/2020</p>
 </td>
 <td width="294">
+<p>Evaluating Performance, Energy efficiency, Parallelism, Locality,<br> Memory hierarchy, Roofline model</p>
 <p>Luigi Nardi: Design Space Optimization with Spatial</p>
 </td>
 <td width="198">
