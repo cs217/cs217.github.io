@@ -194,6 +194,8 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>Azalia Mirhosseini: Reinforcement Learning for Hardware Design</p>
 </td>
 <td width="198">
+ <u><a href="https://pathmind.com/wiki/deep-reinforcement-learning" > A Beginner's Guide to RL </a></u> <br>
+
 <u><a href="https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf"> Resource Management w DRL </a></u> <br>
 </td>
 <td width="96">
