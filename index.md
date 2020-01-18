@@ -130,7 +130,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>1/21/2020</p>
 </td>
 <td width="294">
-<p><strong>Evaluating Performance, Energy efficiency, Parallelism, Locality,<br> Memory hierarchy, Roofline model</strong></p>
+<p>Evaluating Performance, Energy efficiency, Parallelism, Locality,<br> Memory hierarchy, Roofline model</p>
 <p>MLPs and CNNs Inference</p>
 </td>
 <td width="198">
@@ -155,7 +155,7 @@ Funding for this research/activity was partially provided by the  National Scien
 </td>
 <td width="198">
 <p><u><a href="https://people.eecs.berkeley.edu/~kubitron/cs252/handouts/papers/RooflineVyNoYellow.pdf">Roofline Model </a> </u></p>
-<p><u><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a></u><br>
+<p><u><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a></u></p>
 </td>
 <td width="96">
 </td>
@@ -176,7 +176,6 @@ Funding for this research/activity was partially provided by the  National Scien
 <td width="198">
   <u><a href="https://arxiv.org/pdf/1706.00517.pdf">Caterpillar</a></u><br>
   <u><a href="http://ruder.io/optimizing-gradient-descent/"> Optimizing Gradient Descent </a></u> <br>
- 
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -195,7 +194,6 @@ Funding for this research/activity was partially provided by the  National Scien
 </td>
 <td width="198">
  <u><a href="https://pathmind.com/wiki/deep-reinforcement-learning" > A Beginner's Guide to RL </a></u> <br>
-
 <u><a href="https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf"> Resource Management w DRL </a></u> <br>
 </td>
 <td width="96">
