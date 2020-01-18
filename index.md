@@ -154,9 +154,8 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>Luigi Nardi: Design Space Optimization with Spatial</p>
 </td>
 <td width="198">
-
+<p><u><a href="https://people.eecs.berkeley.edu/~kubitron/cs252/handouts/papers/RooflineVyNoYellow.pdf">Roofline Model </a> </u></p>
 <p><u><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a></u><br>
- <p><u><a href="https://people.eecs.berkeley.edu/~kubitron/cs252/handouts/papers/RooflineVyNoYellow.pdf">Roofline Model </a> </u></p>
 </td>
 <td width="96">
 </td>
