@@ -153,6 +153,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>Luigi Nardi: Design Space Optimization with Spatial</p>
 </td>
 <td width="198">
+
 <p><u><a href="https://arxiv.org/pdf/1704.04760.pdf">Google TPU</a></u><br> <u><a href="http://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf">NVIDIA Tesla V100</a></u></p>
 </td>
 <td width="96">
@@ -172,9 +173,9 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>&nbsp;</p>
 </td>
 <td width="198">
+  <u><a href="https://arxiv.org/pdf/1706.00517.pdf">Caterpillar</a></u><br>
   <u><a href="http://ruder.io/optimizing-gradient-descent/"> Optimizing Gradient Descent </a></u> <br>
-  <u><a href="https://arxiv.org/pdf/1708.03888.pdf"> Large Batch Training of Convolutional Networks </a> </u> <br>
-  <u><a href="https://arxiv.org/pdf/1607.04381.pdf"> Dense-Sparse-Dense </a> </u>
+ 
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -192,7 +193,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>Azalia Mirhosseini: Reinforcement Learning for Hardware Design</p>
 </td>
 <td width="198">
-
+<u><a href="https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf"> Resource Management w DRL </a></u> <br>
 </td>
 <td width="96">
 <p></p>
@@ -446,6 +447,7 @@ GEMV + Project Proposals due 11/6
 </td>
 <td width="198">
 <u><a href="https://arxiv.org/pdf/1804.07612.pdf">Revisiting Small Batch Training for Neural Networks </a></u><br>
+  <u><a href="https://arxiv.org/pdf/1708.03888.pdf"> Large Batch Training of Convolutional Networks </a> </u> <br>
   <u><a href="https://supercomputersfordl2017.github.io/">Deep Learning At Supercomputer Scale</a></u><br>
   <u><a href="https://arxiv.org/abs/1712.01887">Deep Gradient Compression</a></u>
 </td>
