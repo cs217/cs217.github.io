@@ -234,7 +234,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>&nbsp;</p>
 </td>
 <td width="198">
-<p>&nbsp;</p>
+<p><u><a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w33/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.pdf">SqueezNext</a></u></p>
 </td>
 <td width="96">
 <p>CNN Inference<br> Accelerators</p>
