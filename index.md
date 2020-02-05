@@ -278,7 +278,7 @@ High Performance Zero-Memory Overhead Direct Convolutions</a></u></p>
 <p>Nvidia Volta</p>
 </td>
 <td width="198">
-  <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u><br>
+  <u><a href="https://arxiv.org/pdf/1710.03740.pdf">Mixed Precision Training Nvidia</a></u><br>
   <u><a href="https://arxiv.org/abs/1905.12334">Mixed Precision Training With 8-bit Floating Point</a></u>
 </td>
 <td width="96">
