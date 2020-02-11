@@ -274,7 +274,7 @@ High Performance Zero-Memory Overhead Direct Convolutions</a></u></p>
 </td>
 <td width="294">
 <p>Guest Lecture: Paulius Micikevicius</p>
-<p>Low Precision Training</p>
+<p>GPU Design Tradeoffs for Deeplearning and MLPerf</p>
 <p>Nvidia Volta</p>
 </td>
 <td width="198">
@@ -295,7 +295,7 @@ High Performance Zero-Memory Overhead Direct Convolutions</a></u></p>
 </td>
 <td width="294">
 <p>Guest Lecture: Cliff Young:</p>
-<p>ML benchmarks MLPerf</p>
+<p>Neural Networks Have Rebooting Computing: What Should We Reboot Next?</p>
 </td>
 <td width="198">
 <p><u><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a></u><br> <u><a href="https://mlperf.org/">MLPerf</a></u></p>
@@ -615,7 +615,7 @@ TBD
 </div>
 <div class="card">
 <a class="talkdate" href="">Paulius Micikevicius, NVIDIA</a> <br>
-<span class="speaker">Low Precision Training</span> <br>
+<span class="speaker">GPU Design Tradeoffs for Deeplearning and MLPerf</span> <br>
 <span class="speakerposition">Thursday February 13, 2020</span>
 </div>
 </div>
@@ -627,7 +627,7 @@ TBD
 </div>
 <div class="card">
 <a class="talkdate" href="young_lecture">Cliff Young, Google</a> <br>
-<span class="speaker">MLPerf</span> <br>
+<span class="speaker">Neural Networks Have Rebooting Computing: What Should We Reboot Next?</span> <br>
 <span class="speakerposition">Tuesday February 18, 2020</span>
 </div>
 </div>
