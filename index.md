@@ -294,7 +294,7 @@ High Performance Zero-Memory Overhead Direct Convolutions</a></u></p>
 <p>2/18/2020</p>
 </td>
 <td width="294">
-<p>Guest Lecture: Cliff Young:</p>
+<p>Guest Lecture: Cliff Young</p>
 <p>Neural Networks Have Rebooting Computing: What Should We Reboot Next?</p>
 </td>
 <td width="198">
