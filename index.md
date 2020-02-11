@@ -390,7 +390,8 @@ GEMV + Project Proposals due 11/6
 <p>Accelerating Natural Language Processing</p>
 </td>
 <td width="198">
-<p>TBD</p>
+<a href="https://arxiv.org/abs/1609.08144">GNMT </a> <br>
+<a href="https://arxiv.org/abs/1810.04805">BERT </a> 
 </td>
 <td width="96">
 <p>&nbsp;</p>
