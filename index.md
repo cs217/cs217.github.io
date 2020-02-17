@@ -426,11 +426,9 @@ GEMV + Project Proposals due 11/6
 <p>2/27/2020</p>
 </td>
 <td width="294">
-<p>Sparsity in Deep Learning</p>
+<p>Assignment 1 Feedback and Discussion</p>
 </td>
 <td width="198">
-  <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u> <br>
-  <u><a href="https://arxiv.org/pdf/2001.03253.pdf">Campfire</a></u>
 </td>
 <td width="96">
 <p> Midterm</p>
@@ -467,10 +465,11 @@ GEMV + Project Proposals due 11/6
 <p>3/05/2020</p>
 </td>
 <td width="294">
-TBD
+<p>Sparsity in Deep Learning</p>
 </td>
 <td width="198">
-<p>  </p>
+  <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u> <br>
+  <u><a href="https://arxiv.org/pdf/2001.03253.pdf">Campfire</a></u>
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -486,9 +485,11 @@ TBD
 <p>3/10/2020</p>
 </td>
 <td width="294">
-<p>TBD</p>
+<p>Machine Learning Systems and Software Stack</p>
 </td>
 <td width="198">
+<u><a href="https://pdfs.semanticscholar.org/dee4/9d30a19f392ca9d002720a554800fa16d19e.pdf"> Taxonomy of Accelerator Architectures</a></u> <br>
+<u><a href="https://dl.acm.org/doi/pdf/10.1145/3317550.3321441?download=true"> ML Systems Stuck in a Rut</a></u> <br>
 <p>&nbsp;</p>
 </td>
 <td width="96">
