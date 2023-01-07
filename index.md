@@ -490,6 +490,8 @@ GEMV + Project Proposals due 11/6
 
 ## [](#Lectures) Guest Lectures
 
+<!--
+
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/kian_katanforoosh.jpg">
@@ -500,6 +502,8 @@ GEMV + Project Proposals due 11/6
 <span class="speakerposition">Thursday January 9, 2020</span>
 </div>
 </div>
+
+
 
 <hr>
 
@@ -514,6 +518,10 @@ GEMV + Project Proposals due 11/6
 </div>
 </div>
 
+-->
+
+<!--
+
 <hr>
 
 <div class="speaker-wrap">
@@ -526,8 +534,9 @@ GEMV + Project Proposals due 11/6
 <span class="speakerposition">Tuesday January 28, 2018</span>
 </div>
 </div>
+-->
 
-
+<!--
 <hr>
 
 <div class="speaker-wrap">
@@ -566,6 +575,10 @@ GEMV + Project Proposals due 11/6
 </div>
 </div>
 
+-->
+
+<!--
+
 <hr>
 <div class="speaker-wrap">
 <div class="speakerphoto">
@@ -578,8 +591,10 @@ GEMV + Project Proposals due 11/6
 </div>
 </div>
 
-<hr>
+-->
 
+<hr>
+<!--
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
@@ -591,6 +606,11 @@ GEMV + Project Proposals due 11/6
 <span class="speakerposition">Thursday February 13, 2020</span>
 </div>
 </div>
+-->
+
+
+
+<!--
 
 <hr>
 <div class="speaker-wrap">
@@ -642,6 +662,9 @@ GEMV + Project Proposals due 11/6
 <span class="speakerposition">Tuesday March 3, 2020</span>
 </div>
 </div>
+-->
+
+
 
 ## [Lecture Notes (Fall 2018)](https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk?usp=sharing)
 
