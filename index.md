@@ -379,7 +379,7 @@ GEMV + Project Proposals due 11/6
 <p>15</p>
 </td>
 <td width="96">
-<p>2/28/2020</p>
+<p>2/28/2023</p>
 </td>
 <td width="294">
 <p>Assignment 1 Feedback and Discussion</p>
@@ -415,7 +415,7 @@ GEMV + Project Proposals due 11/6
 <p>17</p>
 </td>
 <td width="96">
-<p>3/7/2020</p>
+<p>3/7/2023</p>
 </td>
 <td width="294">
 <p>Distributed ML Systems</p>
