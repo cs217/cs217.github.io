@@ -664,7 +664,7 @@ GEMV + Project Proposals due 11/6
 </div>
 -->
 
-
+## [Lecture Notes (Winter 2020)]
 
 ## [Lecture Notes (Fall 2018)](https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk?usp=sharing)
 
