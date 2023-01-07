@@ -50,7 +50,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>1</p>
 </td>
 <td width="96">
-<p>1/07/2020</p>
+<p>1/10/2023</p>
 </td>
 <td width="294">
 <p>Introduction,</p>
@@ -69,10 +69,10 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>2</p>
 </td>
 <td width="96">
-<p>1/09/2020</p>
+<p>1/12/2020</p>
 </td>
 <td width="294">
-<p>Kian Katan:Classical ML algorithms: Regression, SVMs</p>
+<p>Classical ML algorithms: Regression, SVMs</p>
 </td>
 <td width="198">
 <p><u><a href="https://ieeexplore.ieee.org/document/6241647/">Is Dark silicon useful?</a></u><br> Hennessy Patterson Chapter 7.1-7.2</p>
@@ -86,7 +86,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>3</p>
 </td>
 <td width="96">
-<p>1/14/2020</p>
+<p>1/17/2023</p>
 </td>
 <td width="294">
 <p>Linear algebra fundamentals and accelerating linear algebra<br> BLAS operations<br> 20th century techniques: Systolic arrays and MIMDs, CGRAs</p>
@@ -104,7 +104,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>4</p>
 </td>
 <td width="96">
-<p>1/16/2020</p>
+<p>1/19/2023</p>
 </td>
 <td width="294">
 <p>Introduction to Spatial: Analyzing Performance and Energy with Spatial</p>
@@ -127,7 +127,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>5</p>
 </td>
 <td width="96">
-<p>1/21/2020</p>
+<p>1/24/2023</p>
 </td>
 <td width="294">
 <p>MLPs and CNNs Inference</p>
@@ -147,7 +147,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>6</p>
 </td>
 <td width="96">
-<p>1/23/2020</p>
+<p>1/26/2023</p>
 </td>
 <td width="294">
 <p>Evaluating Performance, Energy efficiency, Parallelism, Locality,<br> Memory hierarchy, Roofline model</p>
@@ -167,15 +167,16 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>7</p>
 </td>
 <td width="96">
-<p>1/28/2020</p>
+<p>1/31/2023</p>
 </td>
 <td width="294">
-<p>Boris Ginsburg:Generalization and Regularization of Training</p>
+<p>Fast Implementation of Deep Learning Kernels</p>
 <p>&nbsp;</p>
 </td>
 <td width="198">
-  <u><a href="https://arxiv.org/pdf/1706.00517.pdf">Caterpillar</a></u><br>
-  <u><a href="http://ruder.io/optimizing-gradient-descent/"> Optimizing Gradient Descent </a></u> <br>
+  <p><u><a href="https://arxiv.org/abs/1606.04209">Systematic Approach to Blocking</a></u></p>
+  <p> <u><a href="https://arxiv.org/pdf/1809.10170.pdf">High Performance Zero-Memory Overhead Direct Convolutions</a></u></p>
+
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -187,14 +188,14 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>8</p>
 </td>
 <td width="96">
-<p>1/30/2020</p>
+<p>2/2/2023</p>
 </td>
 <td width="294">
-<p>Azalia Mirhosseini: Reinforcement Learning for Hardware Design</p>
+<p>Training 1: SGD, back propagation, statistical efficiency, batch size</p>
 </td>
 <td width="198">
- <u><a href="https://pathmind.com/wiki/deep-reinforcement-learning" > A Beginner's Guide to RL </a></u> <br>
-<u><a href="https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf"> Resource Management w DRL </a></u> <br>
+  <u><a href="https://arxiv.org/pdf/1706.00517.pdf">Caterpillar</a></u><br>
+  <u><a href="http://ruder.io/optimizing-gradient-descent/"> Optimizing Gradient Descent </a></u> <br>
 </td>
 <td width="96">
 <p></p>
@@ -207,62 +208,18 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>9</p>
 </td>
 <td width="96">
-<p>2/04/2020</p>
+<p>2/07/2023</p>
 </td>
 <td width="294">
-<p> Fanny Nina Paravecino: Catapult Brainwave</p>
-</td>
-<td width="198">
-<p><u><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf">Catapult</a></u><br> <u><a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/03/mi0218_Chung-2018Mar25.pdf">Brainwave</a></u></p>
-</td>
-<td width="96">
-<p>&nbsp;</p>
-</td>
-</tr>
-
-
-
-<tr>
-<td width="36">
-<p>10</p>
-</td>
-<td width="96">
-<p>2/06/2018</p>
-</td>
-<td width="294">
-<p>Amir Gholami: Quantized Deep Learning</p>
-<p>&nbsp;</p>
+<p> Qunatized Deep Learning</p>
 </td>
 <td width="198">
 <p><u><a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w33/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.pdf">SqueezNext</a></u></p>
 </td>
 <td width="96">
-<p>CNN Inference<br> Accelerators</p>
-</td>
-</tr>
-
-
-<tr>
-<td width="36">
-<p>11</p>
-</td>
-<td width="96">
-<p>2/11/2020</p>
-</td>
-<td width="294">
-<p>Tze Meng Low: Fast Implementation of Deep Learning Kernels</p>
 <p>&nbsp;</p>
 </td>
-<td width="198">
-<p><u><a href="https://arxiv.org/abs/1606.04209">Systematic Approach to Blocking</a></u></p>
-<p> <u><a href="https://arxiv.org/pdf/1809.10170.pdf">
-High Performance Zero-Memory Overhead Direct Convolutions</a></u></p>
-
-</td>
-<td width="96">
-</td>
 </tr>
-
 
 
 <tr>
@@ -270,10 +227,10 @@ High Performance Zero-Memory Overhead Direct Convolutions</a></u></p>
 <p>12</p>
 </td>
 <td width="96">
-<p>2/13/2020</p>
+<p>2/9/2023</p>
 </td>
 <td width="294">
-<p>Guest Lecture: Paulius Micikevicius</p>
+<p> Tentative Guest Lecture: Paulius Micikevicius</p>
 <p>GPU Design Tradeoffs for Deeplearning and MLPerf</p>
 <p>Nvidia Volta</p>
 </td>
@@ -288,23 +245,42 @@ High Performance Zero-Memory Overhead Direct Convolutions</a></u></p>
 
 <tr>
 <td width="36">
-<p>13</p>
+<p>18</p>
 </td>
 <td width="96">
-<p>2/18/2020</p>
+<p>2/14/2023</p>
 </td>
 <td width="294">
-<p>Guest Lecture: Cliff Young</p>
-<p>Neural Networks Have Rebooting Computing: What Should We Reboot Next?</p>
+<p>Sparsity in Deep Learning</p>
 </td>
 <td width="198">
-<p><u><a href="https://cs.stanford.edu/~matei/papers/2017/nips_sysml_dawnbench.pdf">DawnBench</a></u><br> <u><a href="https://mlperf.org/">MLPerf</a></u></p>
+  <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u> <br>
+  <u><a href="https://arxiv.org/pdf/2001.03253.pdf">Campfire</a></u>
 </td>
 <td width="96">
- 
+<p>&nbsp;</p>
 </td>
 </tr>
 
+
+
+<tr>
+<td width="36">
+<p>13</p>
+</td>
+<td width="96">
+<p>2/21/2023</p>
+</td>
+<p>Language Models</p>
+</td>
+<td width="198">
+<a href="https://arxiv.org/abs/1609.08144">GNMT </a> <br>
+<a href="https://arxiv.org/abs/1810.04805">BERT </a> 
+</td>
+<td width="96">
+<p>&nbsp;</p>
+</td>
+</tr>
 
 <!--
 <tr>
@@ -383,15 +359,14 @@ GEMV + Project Proposals due 11/6
 <p>14</p>
 </td>
 <td width="96">
-<p>2/20/2020</p>
+<p>2/23/2023</p>
 </td>
 <td width="294">
-<p>Mohammad Shoeybi</p>
-<p>Accelerating Natural Language Processing</p>
+<p>Recommendeation Systems</p>
 </td>
 <td width="198">
-<a href="https://arxiv.org/abs/1609.08144">GNMT </a> <br>
-<a href="https://arxiv.org/abs/1810.04805">BERT </a> 
+
+  
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -404,14 +379,14 @@ GEMV + Project Proposals due 11/6
 <p>15</p>
 </td>
 <td width="96">
-<p>2/25/2020</p>
+<p>2/28/2020</p>
 </td>
 <td width="294">
-<p>Mikhail Smelyanskiv:AI at Facebook Datacenter Scale&nbsp;</p>
+<p>Assignment 1 Feedback and Discussion</p>
+
 </td>
 <td width="198">
-<p>
-  <a href="https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/">ML @ Facebook </a>  </p>
+
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -423,10 +398,10 @@ GEMV + Project Proposals due 11/6
 <p>16</p>
 </td>
 <td width="96">
-<p>2/27/2020</p>
+<p>3/2/2023</p>
 </td>
 <td width="294">
-<p>Assignment 1 Feedback and Discussion</p>
+  <p>Foundational Models,  Graph Neural Networks</p>
 </td>
 <td width="198">
 </td>
@@ -440,16 +415,13 @@ GEMV + Project Proposals due 11/6
 <p>17</p>
 </td>
 <td width="96">
-<p>3/03/2020</p>
+<p>3/7/2020</p>
 </td>
 <td width="294">
-<p>Boris Ginsburg: Large Scale Training</p>
+<p>Distributed ML Systems</p>
 </td>
 <td width="198">
-<u><a href="https://arxiv.org/pdf/1804.07612.pdf">Revisiting Small Batch Training for Neural Networks </a></u><br>
-  <u><a href="https://arxiv.org/pdf/1708.03888.pdf"> Large Batch Training of Convolutional Networks </a> </u> <br>
-  <u><a href="https://supercomputersfordl2017.github.io/">Deep Learning At Supercomputer Scale</a></u><br>
-  <u><a href="https://arxiv.org/abs/1712.01887">Deep Gradient Compression</a></u>
+
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -462,14 +434,12 @@ GEMV + Project Proposals due 11/6
 <p>18</p>
 </td>
 <td width="96">
-<p>3/05/2020</p>
+<p>3/9/2023</p>
 </td>
 <td width="294">
-<p>Sparsity in Deep Learning</p>
+<p>TBD</p>
 </td>
 <td width="198">
-  <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u> <br>
-  <u><a href="https://arxiv.org/pdf/2001.03253.pdf">Campfire</a></u>
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -482,7 +452,7 @@ GEMV + Project Proposals due 11/6
 <p>19</p>
 </td>
 <td width="96">
-<p>3/10/2020</p>
+<p>3/14/2023</p>
 </td>
 <td width="294">
 <p>Machine Learning Systems and Software Stack</p>
