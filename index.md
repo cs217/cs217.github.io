@@ -69,7 +69,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>2</p>
 </td>
 <td width="96">
-<p>1/12/2020</p>
+<p>1/12/2023</p>
 </td>
 <td width="294">
 <p>Classical ML algorithms: Regression, SVMs</p>
@@ -263,94 +263,37 @@ Funding for this research/activity was partially provided by the  National Scien
 </tr>
 
 
-
-<tr>
-<td width="36">
-<p>13</p>
-</td>
-<td width="96">
-<p>2/21/2023</p>
-</td>
-<p>Language Models</p>
-</td>
-<td width="198">
-<a href="https://arxiv.org/abs/1609.08144">GNMT </a> <br>
-<a href="https://arxiv.org/abs/1810.04805">BERT </a> 
-</td>
-<td width="96">
-<p>&nbsp;</p>
-</td>
-</tr>
-
 <!--
 <tr>
-<td width="36">
-<p>11</p>
-</td>
-<td width="96">
-<p>2/11/2020</p>
-</td>
-<td width="294">
-<p>Training 1: SGD, back propagation, statistical efficiency, batch size</p>
-</td>
-<td width="198">
-<p>
-  <u><a href="https://arxiv.org/pdf/1706.00517.pdf">Caterpillar</a></u><br>
-  <u><a href="https://dl.acm.org/citation.cfm?doid=3079856.3080244">ScaleDeep</a></u><br>
-  <u><a href="https://youtu.be/7XtBZ4Hsi_M">GraphCore Talk</a></u>
-  </p>
-</td>
-<td width="96">
-<p></p>
-<p></p>
-<p>&nbsp;</p>
-</td>
-</tr>
 
-<tr>
 <td width="36">
-<p>8</p>
-</td>
-<td width="96">
-<p>2/13/2020</p>
-</td>
-<td width="294">
-<p>Guest Lecture: Yu-Hsin</p>
-<p>CNN Inference</p>
-</td>
-<td width="198">
-<p><u><a href="https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf">Eyeriss</a></u><br> Google TPU (see lecture 5)
-<br>
-<u><a href="https://www.morganclaypool.com/doi/abs/10.2200/S00783ED1V01Y201706CAC041">Brooks' Book, Chapter 5</a></u>
-</p>
-</td>
-<td width="96">
-<p>&nbsp;</p>
-</td>
-</tr>
 
-<tr>
-<td width="36">
 <p>13</p>
+
 </td>
+
 <td width="96">
-<p>2/18/2020</p>
+
+<p>2/21/2023</p>
+
 </td>
-<td width="294">
-<p>Guest Lecture: Paulius Micikevicius</p>
-<p>Low Precision of Training</p>
-</td>
+
+<p>Language Models</p>
+
 <td width="198">
-  <u><a href="https://arxiv.org/abs/1803.03383.pdf">HALP</a></u><br>
-  <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u>
+
+<a href="https://arxiv.org/abs/1609.08144">GNMT </a> <br>
+
+<a href="https://arxiv.org/abs/1810.04805">BERT </a> 
+
 </td>
+
 <td width="96">
-GEMV + Project Proposals due 11/6
-  <br>
- GEMM due 11/10
+
 <p>&nbsp;</p>
-<p></p>
+
 </td>
+
 </tr>
 -->
 
