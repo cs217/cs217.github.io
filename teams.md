@@ -43,10 +43,10 @@ The system is said to be 97% accurate, compared to 85% for the FBI's Next Genera
 
 <strong><a href="https://www.cifar.ca/"> Canadian Institute for Advanced Research (CIFAR)</a></strong>
 
-<img style="float: left; width: 150px; margin-right: 20px" src="/assets/img/.jpg">
+<img style="float: left; width: 150px; margin-right: 20px" src="/assets/img/cifar.jpg">
 
 <p align="justify">
-Founded in 1982, is an institute of advanced study that creates and maintains global research networks working on complex areas of inquiry.
+Founded in 1982, CIFAR is an institute of advanced study that creates and maintains global research networks working on complex areas of inquiry.
 It is supported by individuals, foundations and corporations, as well as funding from the Government of Canada and the Provinces of Quebec, Ontario, British Columbia and Alberta.
 Among other topics, its researchers work on the topic of learning in machines and brains.<br />
 <a href="https://en.wikipedia.org/wiki/Canadian_Institute_for_Advanced_Research"> source </a>
