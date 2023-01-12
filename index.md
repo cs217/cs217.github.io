@@ -38,6 +38,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <td width="294">
 <p><strong>Topic</strong></p>
 </td>
+  
 <td width="198">
 <p><strong>Reading Assignments Lecture Slides</strong></p>
 </td>
@@ -57,6 +58,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>Software 2.0</p>
 <p>Role of hardware accelerators in post Dennard&nbsp;and Moore era</p>
 </td>
+  
 <td width="198">
 <p>&nbsp;</p>
 </td>
@@ -72,11 +74,12 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>1/12/2023</p>
 </td>
 <td width="294">
-<p>Classical ML algorithms: Regression, SVMs</p>
+<p>Linear algebra fundamentals and accelerating linear algebra<br> BLAS operations<br></p>
 </td>
 <td width="198">
 <p><u><a href="https://ieeexplore.ieee.org/document/6241647/">Is Dark silicon useful?</a></u><br> Hennessy Patterson Chapter 7.1-7.2</p>
 </td>
+  
 <td width="96">
 <p>&nbsp;</p>
 </td>
@@ -89,7 +92,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>1/17/2023</p>
 </td>
 <td width="294">
-<p>Linear algebra fundamentals and accelerating linear algebra<br> BLAS operations<br> 20th century techniques: Systolic arrays and MIMDs, CGRAs</p>
+<p>20th century techniques: Systolic arrays and MIMDs, CGRAs RDAs</p>
 </td>
 <td width="198">
 <p><u><a href="http://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf">Why Systolic Architectures?</a></u><br> <u><a href="https://www.cs.utexas.edu/users/pingali/CS378/2008sp/papers/gotoPaper.pdf">Anatomy of high performance GEMM</a></u></p>
