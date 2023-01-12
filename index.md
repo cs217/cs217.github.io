@@ -154,7 +154,7 @@ Funding for this research/activity was partially provided by the  National Scien
 </td>
 <td width="294">
 <p>Evaluating Performance, Energy efficiency, Parallelism, Locality,<br> Memory hierarchy, Roofline model</p>
-<p>Luigi Nardi: Design Space Optimization with Spatial</p>
+<p>
 </td>
 <td width="198">
 <p><u><a href="https://people.eecs.berkeley.edu/~kubitron/cs252/handouts/papers/RooflineVyNoYellow.pdf">Roofline Model </a> </u></p>
