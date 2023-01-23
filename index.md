@@ -226,13 +226,13 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>12</p>
+<p>10</p>
 </td>
 <td width="96">
 <p>2/9/2023</p>
 </td>
 <td width="294">
-<p> Tentative Guest Lecture: Paulius Micikevicius</p>
+<p> Guest Lecture: David Kanter </p>
 <p>GPU Design Tradeoffs for Deeplearning and MLPerf</p>
 <p>Nvidia Volta</p>
 </td>
@@ -247,7 +247,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>18</p>
+<p>11</p>
 </td>
 <td width="96">
 <p>2/14/2023</p>
@@ -256,11 +256,11 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>Sparsity in Deep Learning</p>
 </td>
 <td width="198">
-  <u><a href="https://arxiv.org/pdf/1602.01528.pdf">EIE</a></u> <br>
+  <u><a href="https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/">NVIDIA H100</a></u> <br>
   <u><a href="https://arxiv.org/pdf/2001.03253.pdf">Campfire</a></u>
 </td>
 <td width="96">
-<p>&nbsp;</p>
+<p>LeNet Inference</p>
 </td>
 </tr>
 
@@ -301,17 +301,19 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>14</p>
+<p>12</p>
 </td>
 <td width="96">
 <p>2/23/2023</p>
 </td>
 <td width="294">
-<p>Recommendeation Systems</p>
+<p>Recommendation Systems</p>
 </td>
 <td width="198">
 
-  
+<a href="https://arxiv.org/abs/2003.09518"> Facebook Zion Architecture </a> <br/>
+<a href="https://arxiv.org/pdf/2010.13100.pdf"> Tensor Casting </a> <br>
+<a href="https://arxiv.org/pdf/2205.04702.pdf"> Training Personalized Recommendations from Scratch</a>
 </td>
 <td width="96">
 <p>&nbsp;</p>
@@ -321,7 +323,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>15</p>
+<p>13</p>
 </td>
 <td width="96">
 <p>2/28/2023</p>
@@ -340,7 +342,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>16</p>
+<p>14</p>
 </td>
 <td width="96">
 <p>3/2/2023</p>
@@ -357,7 +359,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>17</p>
+<p>15</p>
 </td>
 <td width="96">
 <p>3/7/2023</p>
@@ -376,7 +378,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>18</p>
+<p>16</p>
 </td>
 <td width="96">
 <p>3/9/2023</p>
@@ -394,7 +396,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>19</p>
+<p>17</p>
 </td>
 <td width="96">
 <p>3/14/2023</p>
@@ -415,7 +417,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <tr>
 <td width="36">
-<p>20</p>
+<p>19</p>
 </td>
 <td width="96">
 <p>3/16/2023</p>
@@ -434,6 +436,17 @@ Funding for this research/activity was partially provided by the  National Scien
 </table>
 
 ## [](#Lectures) Guest Lectures
+
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/DavidKanter.png" style="overflow: hidden">
+</div>
+<div class="card">
+<a class="talkdate" href="https://mlcommons.org/en/leadership/">David Kanter, MLCommons</a> <br>
+<span class="speaker"> MLPerf</span> <br>
+<span class="speakerposition">2/9/2023</span>
+</div>
+</div>
 
 <!--
 
