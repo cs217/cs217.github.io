@@ -310,8 +310,6 @@ Funding for this research/activity was partially provided by the  National Scien
 <p>Recommendation Systems</p>
 </td>
 <td width="198">
-
-<a href="https://arxiv.org/abs/2003.09518"> Facebook Zion Architecture </a> <br/>
 <a href="https://arxiv.org/pdf/2010.13100.pdf"> Tensor Casting </a> <br>
 <a href="https://arxiv.org/pdf/2205.04702.pdf"> Training Personalized Recommendations from Scratch</a>
 </td>
