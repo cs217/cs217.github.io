@@ -473,7 +473,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <div class="card">
 <a class="talkdate" href="https://mlcommons.org/en/leadership/">David Kanter, MLCommons</a> <br>
 <span class="speaker"> MLPerf</span> <br>
-<span class="speakerposition">2/9/2023</span>
+<span class="speakerposition">Thursday February 9, 2023</span>
 </div>
 </div>
 
@@ -537,48 +537,51 @@ Funding for this research/activity was partially provided by the  National Scien
 </div>
 </div>
 
-<hr>
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/Fanny.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="chung_lecture">Fanny Nina Paravecino, Microsoft Research</a> <br>
-<span class="speaker">Real-Time AI at Cloud Scale with Project Brainwave</span> <br>
-<span class="speakerposition">Tuesday February 4, 2020</span>
-</div>
-</div>
-
-<hr>
-
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/Amir.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="ginsburg_lecture">Amir Gholami, UC Berkeley</a> <br>
-<span class="speaker">Precision and Quantized Training for Deep Learning</span> <br>
-<span class="speakerposition">Thursday February 6, 2020</span>
-</div>
-</div>
-
 -->
 
-<!--
+<hr>
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/JaredCasper.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="">Jared Casper, Nvidia</a> <br>
+<span class="speaker">Large Language Models</span> <br>
+<span class="speakerposition">Thursday February 16, 2023</span>
+</div>
+</div>
+
+
+<hr>
+
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/DanFu2.jpeg">
+</div>
+<div class="card">
+<a class="talkdate" href="">Dan Fu, Stanford</a> <br>
+<span class="speaker">Flash Attention</span> <br>
+<span class="speakerposition">Tuesday February 21, 2023</span>
+</div>
+</div>
+
+
+
+
 
 <hr>
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/TzeMeng.png">
+<img src="assets/img/Sameer_Kumar.jpeg">
 </div>
 <div class="card">
-<a class="talkdate" href="ginsburg_lecture">Tze Meng Low, Carnegie Melon University</a> <br>
-<span class="speaker">Fast Implementation of Deep Learning Kernels</span> <br>
-<span class="speakerposition">Tuesday February 11, 2020</span>
+<a class="talkdate" href="">Sameer Kumar, Google</a> <br>
+<span class="speaker">Distributed Systems</span> <br>
+<span class="speakerposition">Thursday March 2, 2023</span>
 </div>
 </div>
 
--->
+
 
 <hr>
 
