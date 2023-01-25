@@ -581,23 +581,33 @@ Funding for this research/activity was partially provided by the  National Scien
 -->
 
 <hr>
-<!--
+
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/paulius-200x200.jpg">
+<img src="assets/img/mike_houston_gtc_headshot.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="">Paulius Micikevicius, NVIDIA</a> <br>
-<span class="speaker">GPU Design Tradeoffs for Deeplearning and MLPerf</span> <br>
-<span class="speakerposition">Thursday February 13, 2020</span>
+<a class="talkdate" href="">Mike Houston, NVIDIA</a> <br>
+<span class="speaker">Distributed Systems for Deep Learning</span> <br>
+<span class="speakerposition">Tuesday March 7, 2023</span>
 </div>
 </div>
--->
 
 
 
-<!--
+<hr>
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/Ce_Zhang.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="ginsburg_lecture">Ce Zhang, ETH</a> <br>
+<span class="speaker"></span> <br>
+<span class="speakerposition">Thursday March 9, 2023</span>
+</div>
+</div>
+
 
 <hr>
 <div class="speaker-wrap">
@@ -606,11 +616,14 @@ Funding for this research/activity was partially provided by the  National Scien
 </div>
 <div class="card">
 <a class="talkdate" href="young_lecture">Cliff Young, Google</a> <br>
-<span class="speaker">Neural Networks Have Rebooting Computing: What Should We Reboot Next?</span> <br>
-<span class="speakerposition">Tuesday February 18, 2020</span>
+<span class="speaker">Hierarchical Codesign and TPU4</span> <br>
+<span class="speakerposition">Thursday March 18, 2023</span>
 </div>
 </div>
 
+
+
+<!--
 
 <hr>
 
