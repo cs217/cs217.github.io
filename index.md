@@ -468,7 +468,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/DavidKanter.png" style="overflow: hidden">
+<img src="assets/img/DavidKanter1.jpg" style="overflow: hidden">
 </div>
 <div class="card">
 <a class="talkdate" href="https://mlcommons.org/en/leadership/">David Kanter, MLCommons</a> <br>
