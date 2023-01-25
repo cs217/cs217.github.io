@@ -523,21 +523,21 @@ Funding for this research/activity was partially provided by the  National Scien
 </div>
 -->
 
-<!--
+
 <hr>
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/Azalia.jpg">
+<img src="assets/img/small.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="Azalia_lecture">Azalia MirHosseini, Google Brain</a> <br>
-<span class="speaker">Reinforcement Learning and Hardware Design</span> <br>
-<span class="speakerposition">Thursday January 30, 2020</span>
+<a class="talkdate" href="Raghu_lecture">Raghu Prabhakar, Sambanova</a> <br>
+<span class="speaker">Reconfigurable Dataflow Architectures</span> <br>
+<span class="speakerposition">Tuesday February 14, 2023</span>
 </div>
 </div>
 
--->
+
 
 <hr>
 <div class="speaker-wrap">
@@ -566,7 +566,18 @@ Funding for this research/activity was partially provided by the  National Scien
 </div>
 
 
+<hr>
 
+<div class="speaker-wrap">
+<div class="speakerphoto">
+<img src="assets/img/greg_diamos_-_headshot.jpg">
+</div>
+<div class="card">
+<a class="talkdate" href="">Greg Diamos, Something New</a> <br>
+<span class="speaker">Data systems for large models</span> <br>
+<span class="speakerposition">Thursday February 23, 2023</span>
+</div>
+</div>
 
 
 <hr>
