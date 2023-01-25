@@ -528,7 +528,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/small.jpg">
+<img src="assets/img/Raghu.jpg">
 </div>
 <div class="card">
 <a class="talkdate" href="Raghu_lecture">Raghu Prabhakar, Sambanova</a> <br>
