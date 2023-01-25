@@ -631,7 +631,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <div class="card">
 <a class="talkdate" href="young_lecture">Cliff Young, Google</a> <br>
 <span class="speaker">Hierarchical Codesign and TPU4</span> <br>
-<span class="speakerposition">Thursday March 18, 2023</span>
+<span class="speakerposition">Thursday March 16, 2023</span>
 </div>
 </div>
 
