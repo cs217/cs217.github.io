@@ -146,7 +146,7 @@ Funding for this research/activity was partially provided by the  National Scien
 
 <div class="speaker-wrap">
 <div class="speakerphoto">
-<img src="assets/img/Swapnil.jpg">
+<img src="assets/img/Swapnil.jpeg">
 </div>
 <div class="card">
 <a class="talkdate" href="">Swapnil Gandhi, Stanford</a> <br>
