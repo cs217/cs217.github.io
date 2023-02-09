@@ -26,7 +26,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUvgCbIAu6JSNKP1Luu8jpsALlR-0uukXJUKaiXkMjEzjedAVpwdwi2e_xwThw-e4vbJbObH5TsQdy/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" style="width: 100%; height: 100vh; display: block; border: none;"></iframe>
 
 ## [](#Lectures) Guest Lectures
-
+<div class="speaker-list">
 <div class="speaker-wrap">
 <div class="speakerphoto">
 <img src="assets/img/DavidKanter1.jpg" style="overflow: hidden">
@@ -37,52 +37,6 @@ Funding for this research/activity was partially provided by the  National Scien
 <span class="speakerposition">Thursday February 9, 2023</span>
 </div>
 </div>
-
-<!--
-
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/kian_katanforoosh.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="katanforoosh_lecture">Kian Katanforoosh, deeplearning.ai and Stanford University</a> <br>
-<span class="speaker">From Machine Learning to Deep Learning: a computational transition</span> <br>
-<span class="speakerposition">Thursday January 9, 2020</span>
-</div>
-</div>
-
-
-
-<hr>
-
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/Luigi_Nardi.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="esmaeilzadeh_lecture">Luigi Nardi, Lund University and Stanford University</a> <br>
-<span class="speaker"> Design Space Optimization with Spatial</span> <br>
-<span class="speakerposition">Thursday January 23, 2020</span>
-</div>
-</div>
-
--->
-
-<!--
-
-<hr>
-
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/Boris_Ginsburg-200x200.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="ginsburg_lecture">Boris Ginsburg, NVIDIA</a> <br>
-<span class="speaker">Generalization and Regularization of Training</span> <br>
-<span class="speakerposition">Tuesday January 28, 2018</span>
-</div>
-</div>
--->
 
 
 <hr>
@@ -151,7 +105,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <div class="card">
 <a class="talkdate" href="">Swapnil Gandhi, Stanford</a> <br>
 <span class="speaker">Graph Neural Networks</span> <br>
-<span class="speakerposition">Thuesday February 28, 2023</span>
+<span class="speakerposition">Thursday February 28, 2023</span>
 </div>
 </div>
 
@@ -210,48 +164,7 @@ Funding for this research/activity was partially provided by the  National Scien
 </div>
 </div>
 
-
-
-<!--
-
-<hr>
-
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/Mohammad_Shoeybi.jpeg">
 </div>
-<div class="card">
-<a class="talkdate" href="ginsburg_lecture">Mohammad Shoeybi, NVIDIA</a> <br>
-<span class="speaker">Natural Language Processing</span> <br>
-<span class="speakerposition">Thursday February 20, 2020</span>
-</div>
-</div>
-
-<hr>
-
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/Mikhail_Smelyanskiy.JPG">
-</div>
-<div class="card">
-<a class="talkdate" href="smelyanskiy_lecture">Mikhail Smelyanskiy, Facebook</a> <br>
-<span class="speaker">AI at Facebook Datacenter Scale</span> <br>
-<span class="speakerposition">Tuesday February 25, 2020</span>
-</div>
-</div>
-
-<hr>
-<div class="speaker-wrap">
-<div class="speakerphoto">
-<img src="assets/img/Boris_Ginsburg-200x200.jpg">
-</div>
-<div class="card">
-<a class="talkdate" href="ginsburg_lecture">Boris Ginsburg, NVIDIA</a> <br>
-<span class="speaker">Large Batch Training of Convolution Networks</span> <br>
-<span class="speakerposition">Tuesday March 3, 2020</span>
-</div>
-</div>
--->
 
 ## [Lecture Notes (Winter 2020)]
 
