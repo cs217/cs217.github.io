@@ -46,7 +46,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <img src="assets/img/Raghu.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="Raghu_lecture">Raghu Prabhakar, Sambanova</a> <br>
+<a class="talkdate" href="https://sambanova.ai/">Raghu Prabhakar, Sambanova</a> <br>
 <span class="speaker">Reconfigurable Dataflow Architectures</span> <br>
 <span class="speakerposition">Tuesday February 14, 2023</span>
 </div>
@@ -60,7 +60,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <img src="assets/img/JaredCasper.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="">Jared Casper, Nvidia</a> <br>
+<a class="talkdate" href="https://developer.nvidia.com/blog/author/jcasper/">Jared Casper, Nvidia</a> <br>
 <span class="speaker">Large Language Models</span> <br>
 <span class="speakerposition">Thursday February 16, 2023</span>
 </div>
@@ -74,7 +74,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <img src="assets/img/DanFu2.jpeg">
 </div>
 <div class="card">
-<a class="talkdate" href="">Dan Fu, Stanford</a> <br>
+<a class="talkdate" href="https://www.danfu.org/">Dan Fu, Stanford</a> <br>
 <span class="speaker">Flash Attention</span> <br>
 <span class="speakerposition">Tuesday February 21, 2023</span>
 </div>
@@ -103,7 +103,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <img src="assets/img/Swapnil.jpeg">
 </div>
 <div class="card">
-<a class="talkdate" href="">Swapnil Gandhi, Stanford</a> <br>
+<a class="talkdate" href="https://swapnilgandhi.com/">Swapnil Gandhi, Stanford</a> <br>
 <span class="speaker">Graph Neural Networks</span> <br>
 <span class="speakerposition">Thursday February 28, 2023</span>
 </div>
@@ -145,7 +145,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <img src="assets/img/Ce_Zhang.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="ginsburg_lecture">Ce Zhang, ETH</a> <br>
+<a class="talkdate" href="https://zhangce.github.io/">Ce Zhang, ETH</a> <br>
 <span class="speaker"></span> <br>
 <span class="speakerposition">Thursday March 9, 2023</span>
 </div>
@@ -158,15 +158,13 @@ Funding for this research/activity was partially provided by the  National Scien
 <img src="assets/img/cliff_young.jpg">
 </div>
 <div class="card">
-<a class="talkdate" href="young_lecture">Cliff Young, Google</a> <br>
+<a class="talkdate" href="">Cliff Young, Google</a> <br>
 <span class="speaker">Hierarchical Codesign and TPU4</span> <br>
 <span class="speakerposition">Thursday March 16, 2023</span>
 </div>
 </div>
 
 </div>
-
-## [Lecture Notes (Winter 2020)]
 
 ## [Lecture Notes (Fall 2018)](https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk?usp=sharing)
 
