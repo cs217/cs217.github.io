@@ -105,7 +105,7 @@ Funding for this research/activity was partially provided by the  National Scien
 <div class="card">
 <a class="talkdate" href="https://swapnilgandhi.com/">Swapnil Gandhi, Stanford</a> <br>
 <span class="speaker">Graph Neural Networks</span> <br>
-<span class="speakerposition">Thursday February 28, 2023</span>
+<span class="speakerposition">Tuesday February 28, 2023</span>
 </div>
 </div>
 
