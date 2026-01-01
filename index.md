@@ -17,22 +17,4 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [CODA B60](https:
 </div>
 
 ## Schedule
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUvgCbIAu6JSNKP1Luu8jpsALlR-0uukXJUKaiXkMjEzjedAVpwdwi2e_xwThw-e4vbJbObH5TsQdy/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" style="width: 100%; height: 100vh; display: block; border: none;"></iframe>
-
-## [Lecture Notes (Fall 2018)](https://drive.google.com/drive/folders/1c8m186dCagpB4_sqhaPA19-K8gBlezPk?usp=sharing)
-
-## Related Stanford Courses
-
--   [CS230](http://cs230.stanford.edu/syllabus.html)
--   [CS231n](http://cs231n.github.io)
--   [STATS 385](https://stats385.github.io/)
-
-## [Reading list and other resources](readings)
-
-## [Basic information about deep learning](basicinfo)
-
-## [Cheat sheet -- things that everyone needs to know](cheat_sheet)
-
-## [Blogs](blogs)
-
-## [Grading](grading)
+<iframe src="https://docs.google.com/spreadsheets/d/1Aqpk1hEZD78bq0WoDe6edSs-tSC58hoEGCSJ6I--6KI/edit?gid=0#gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" style="width: 100%; height: 100vh; display: block; border: none;"></iframe>
