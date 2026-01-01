@@ -2,7 +2,7 @@
 layout: titlepage3
 ---
 
-This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [Gates B03](https://campus-map.stanford.edu/?id=07-450&lat=37.43011014&lng=-122.17341616&zoom=17&srch=Gates).
+This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [CODA B60](https://campus-map.stanford.edu/?id=&lat=37.429924&lng=-122.17178&zoom=17&srch=07-430).
 
 ## Teaching Assistants
 
