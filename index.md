@@ -17,4 +17,4 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [CODA B60](https:
 </div>
 
 ## Schedule
-<iframe src="https://docs.google.com/spreadsheets/d/1Aqpk1hEZD78bq0WoDe6edSs-tSC58hoEGCSJ6I--6KI/edit?gid=0#gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" style="width: 100%; height: 100vh; display: block; border: none;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1Aqpk1hEZD78bq0WoDe6edSs-tSC58hoEGCSJ6I--6KI/preview?gid=0" style="width: 100%; height: 100vh; display: block; border: none;"></iframe>
