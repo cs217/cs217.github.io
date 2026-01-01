@@ -16,12 +16,6 @@ This class meets Tuesday and Thursday from 10:30 - 11:50 AM in [CODA B60](https:
 </div>
 </div>
 
-## Class Information
-<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg">
-<p>
-Funding for this research/activity was partially provided by the  National Science Foundation Division of Computing and Communication Foundations under award number <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1563113&HistoricalAwards=false">1563113</a>.
-</p>
-
 ## Schedule
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUvgCbIAu6JSNKP1Luu8jpsALlR-0uukXJUKaiXkMjEzjedAVpwdwi2e_xwThw-e4vbJbObH5TsQdy/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" style="width: 100%; height: 100vh; display: block; border: none;"></iframe>
 
