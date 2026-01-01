@@ -3,7 +3,7 @@ layout: titlepage3
 ---
 
 ## Teaching Assistants
-<div style="display: flex; justify-content: space-around; gap: 20px; text-align: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-around; gap: 10px; text-align: center; flex-wrap: wrap;">
   <div style="margin: 10px;">
     <img src="assets/img/smriti.jpg" alt="Pullabhatla Smriti" style="width: 115px; height: 115px; object-fit: cover; border-radius: 50px;">
     <p style="margin-top: 10px; font-size: 18px;">Pullabhatla Smriti</p>
