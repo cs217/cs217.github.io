@@ -5,19 +5,19 @@ layout: titlepage3
 ## Teaching Assistants
 <div style="display: flex; justify-content: space-around; text-align: center; flex-wrap: wrap;">
   <div style="margin: 10px;">
-    <img src="assets/img/smriti.jpg" alt="Pullabhatla Smriti" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50px;">
+    <img src="assets/img/smriti.jpg" alt="Pullabhatla Smriti" style="width: 110px; height: 110px; object-fit: cover; border-radius: 50px;">
     <p style="margin-top: 10px; font-size: 18px;">Pullabhatla Smriti</p>
   </div>
   <div style="margin: 10px;">
-    <img src="assets/img/peli.jpg" alt="Peijing Li" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50px;">
+    <img src="assets/img/peli.jpg" alt="Peijing Li" style="width: 110px; height: 110px; object-fit: cover; border-radius: 50px;">
     <p style="margin-top: 10px; font-size: 18px;">Peijing Li</p>
   </div>
   <div style="margin: 10px;">
-    <img src="assets/img/vyom_garg.jpg" alt="Vyom Garg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50px;">
+    <img src="assets/img/vyom_garg.jpg" alt="Vyom Garg" style="width: 110px; height: 110px; object-fit: cover; border-radius: 50px;">
     <p style="margin-top: 10px; font-size: 18px;">Vyom Garg</p>
   </div>
   <div style="margin: 10px;">
-    <img src="assets/img/jake_cheng.png" alt="Jake Cheng" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50px;">
+    <img src="assets/img/jake_cheng.png" alt="Jake Cheng" style="width: 110px; height: 110px; object-fit: cover; border-radius: 50px;">
     <p style="margin-top: 10px; font-size: 18px;">Jake Cheng</p>
   </div>
 </div>
