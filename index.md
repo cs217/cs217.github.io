@@ -1,6 +1,5 @@
 ---
 layout: titlepage3
-title: CS 217
 ---
 
 ## Teaching Assistants
