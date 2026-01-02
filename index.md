@@ -1,6 +1,6 @@
 ---
 layout: titlepage3
-title: 
+title:  
 ---
 
 ## Teaching Assistants
