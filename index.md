@@ -1,6 +1,6 @@
 ---
 layout: titlepage3
-title:  
+title: Hardware Accelerators for Machine Learning  
 ---
 
 ## Teaching Assistants
